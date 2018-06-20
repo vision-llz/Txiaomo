@@ -2,7 +2,15 @@ const Wechat = require('wechat4u');
 const fs = require('fs'); 
 const qrcode = require('qrcode-terminal'); 
 const sendMsg = require('./sendMessage');
-const request = require('request')
+const request = require('request');
+const AipImgClient=require('baidu-aip-sdk').imageClassify;
+const HttpClient=require('baidu-aip-sdk').HttpClient;
+
+var APP_ID ='11421710';
+var API_KEY = 'sizwkNgutxLAZghEdfhHIULh';
+var SECRET_KEY ='cgnAEhKrokh0lmUuuqFEmbpeEGXhQ4zt';
+var aipImgClient=new AipImgClient(APP_ID,API_KEY,SECRET_KEY);
+
 let bot, loginUserName; 
 
 try {
@@ -77,13 +85,13 @@ bot.on('message', msg =>  {
             toMsgName=msg.FromUserName
         }
     }
+    console.log(msg)
     switch (msg.MsgType) {
         case bot.CONF.MSGTYPE_TEXT:
         /**
          * 文本消息
          * 
          */
-        console.log(msg)
         let text=msg.Content;
         if (text.charAt(0) === '@' && text.indexOf('\n') !== -1) {
             text=text.slice(text.indexOf('\n')+1,text.length);

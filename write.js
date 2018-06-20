@@ -8,7 +8,7 @@ const writeTxt = (name, params) =>  {
     //     text += data; 
     // }); 
     let time = name?name:util.getTime(); 
-    fs.writeFileSync('./media/imgNameArr/' + time + '.txt', params); 
+    fs.writeFileSync('./media/txt/' + time + '.txt', params); 
 }
 
 const writeImg = (params) =>  {
