@@ -55,10 +55,10 @@ function sendImg(params, name, bot) {
                     // console.log(header + ": " + response.headers[header]);
                     // body = JSON.stringify(JSON.parse(body), null, '  ');
                     // console.log('\nJSON Response:\n');
-                    data = JSON.parse(body).value;
+                    imgData = JSON.parse(body).value;
                     let dataText = { dataName: params, dataArr: [], getUser: [] };
-                    if (data && data.length > 0) {
-                        for (const item of data) {
+                    if (imgData && imgData.length > 0) {
+                        for (const item of imgData) {
                             if (item.contentUrl.indexOf('?') !==-1) {
                                 item.contentUrl=item.contentUrl.split('?')[0];
                             }

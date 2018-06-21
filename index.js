@@ -1,7 +1,7 @@
 'use strict'
 
 require('babel-register')
-const Wechat = require('./src/wechat.js'); 
+const Wechat = require('wechat4u'); 
 const fs = require('fs'); 
 const write=require('./write')
 const qrcode = require('qrcode-terminal'); 
@@ -144,7 +144,7 @@ bot.on('message', msg =>  {
         
         if (text && text.length>=2) {
             if (msg.ToUserName=== 'filehelper') {
-                toUser = 'filehelper'
+                toMsgName = 'filehelper'
             }
             //用户ID
             if (msg.Content && msg.Content.indexOf('@') !== -1) {

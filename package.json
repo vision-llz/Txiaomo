@@ -30,6 +30,7 @@
     "request": "^2.87.0",
     "silly-datetime": "^0.1.2",
     "typescript": "^2.9.2",
-    "urlencode": "^1.1.0"
+    "urlencode": "^1.1.0",
+    "wechat4u": "^0.7.6"
   }
 }
