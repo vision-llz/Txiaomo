@@ -1,18 +1,29 @@
-const Wechat = require('wechat4u'); 
+'use strict'
+
+require('babel-register')
+const Wechat = require('./src/wechat.js'); 
 const fs = require('fs'); 
+const write=require('./write')
 const qrcode = require('qrcode-terminal'); 
 const sendMsg = require('./sendMessage');
 const request = require('request');
 const AipImgClient=require('baidu-aip-sdk').imageClassify;
 const HttpClient=require('baidu-aip-sdk').HttpClient;
 
+/**
+ * 百度识图
+ */
 var APP_ID ='11421710';
 var API_KEY = 'sizwkNgutxLAZghEdfhHIULh';
 var SECRET_KEY ='cgnAEhKrokh0lmUuuqFEmbpeEGXhQ4zt';
 var aipImgClient=new AipImgClient(APP_ID,API_KEY,SECRET_KEY);
+HttpClient.setRequestOptions({ timeout: 5000 });
+HttpClient.setRequestInterceptor(function (requestOptions) {
+    return requestOptions;
+})
 
 let bot, loginUserName; 
-
+let snalysisNameArr = [];   //临时存储识图用户
 try {
     bot = new Wechat(require('./sync-data.json'))
 }catch (error) {
@@ -47,8 +58,32 @@ bot.on('user-avatar', avatar =>  {
  */
 bot.on('login', () =>  {
     console.log('登陆成功'); 
-    loginUserName = bot.botData.user.UserName;
     fs.writeFileSync('./sync-data.json', JSON.stringify(bot.botData)); 
+    console.log(bot)
+    loginUserName = bot.botData.user.UserName;
+    setTimeout(() => {
+        let data=''
+        console.log(bot.contacts)
+        // bot.contacts.forEach(element => {
+        //     if (element.UserName.slice(0,2) === '@@') {
+        //         data+=element.NickName+'\n'
+        //     }
+        // });
+        for (const key in bot.contacts) {
+            if (key.slice(0,2) === '@@') {
+                data += bot.contacts[key].NickName+'\n'
+            }
+        }
+        write.writeTxt('联系人', data)
+    }, 10000);
+})
+/**
+ * 联系人更新事件，参数为被更新的联系人列表
+ */
+bot.on('contacts-updated', contacts => {
+    Object.keys(bot.contacts)
+    
+
 })
 /**
  * 登出成功
@@ -85,7 +120,13 @@ bot.on('message', msg =>  {
             toMsgName=msg.FromUserName
         }
     }
-    console.log(msg)
+    
+    /**
+     * 消息来源用户
+     */
+    // console.log(msg)
+    let fromName=msg.FromUserName;
+    console.log('fromName====>' + fromName)
     switch (msg.MsgType) {
         case bot.CONF.MSGTYPE_TEXT:
         /**
@@ -100,22 +141,49 @@ bot.on('message', msg =>  {
         //     console.log(bot.contacts)
         // }
         let searchName='';
-        if (text && text.length>2) {
+        
+        if (text && text.length>=2) {
             if (msg.ToUserName=== 'filehelper') {
                 toUser = 'filehelper'
             }
-
             //用户ID
             if (msg.Content && msg.Content.indexOf('@') !== -1) {
                 searchName=msg.Content.slice(':')[0];
             }
+            console.log(msg)
 
             if (text.slice(0, 2) === '搜图') {
-                sendMsg.sendImg(text.slice(2), toMsgName,bot)
+                sendMsg.sendImg(text.slice(2), toMsgName,bot) 
+            } else if (text.slice(0, 2) === '识图') {
+                snalysisNameArr.push(fromName);
+            } else if (text.slice(0, 3) === '相似图') {
+                
             }
         }
             break;
         case bot.CONF.MSGTYPE_IMAGE:
+            console.log(snalysisNameArr)
+            if (snalysisNameArr.indexOf(msg.FromUserName) !==-1) {
+                bot.getMsgImg(msg.MsgId||msg.NewMsgId).then(res=>{
+                    write.writeImg(msg.FromUserName,res.data)
+                    snalysisNameArr.splice(snalysisNameArr.indexOf(msg.FromUserName,0));
+                    let img = fs.readFileSync('./media/img/'+msg.FromUserName+'.jpg').toString('base64');
+                    aipImgClient.advancedGeneral(img).then(function (result) {
+                        console.log(result);
+                        let data=result.result;
+                        let msg='已查询到结果(来源为百度识图)：';
+                        for (let index = 0; index < data.length; index++) {
+                            msg += '\n' + (index+1) + '：' + data[index].root + '===>' + data[index].keyword
+                        }
+                        sendMsg.returnErr(msg, toMsgName,bot);
+                    }).catch(function (err) {
+                        console.log(err)
+                        sendMsg.returnErr('查询人数过多，请重试~', toMsgName, bot);
+                    })   
+                }).catch(err=>{
+                    console.log(err)
+                }) 
+            }
             /**
              * 图片消息
              */
@@ -151,6 +219,7 @@ bot.on('message', msg =>  {
             break;
     }
 })
+
 
 /**
  * 获取联系人头像

@@ -11,13 +11,16 @@ const writeTxt = (name, params) =>  {
     fs.writeFileSync('./media/txt/' + time + '.txt', params); 
 }
 
-const writeImg = (params) =>  {
+const writeImg = (name,params) =>  {
     // let text = ''; 
     // params.on('data', function(data) {
     //     text += data; 
     // }); 
     let time = util.getTime(); 
-    fs.writeFileSync('./media/img' + time + '.txt', params); 
+    if (name !== '') {
+        time=name;
+    }
+    fs.writeFileSync('./media/img/' + time + '.jpg', params); 
 }
 
-module.exports =  {writeTxt}
+module.exports = { writeTxt, writeImg}

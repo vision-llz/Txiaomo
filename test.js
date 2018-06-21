@@ -15,6 +15,18 @@ var API_KEY = 'sizwkNgutxLAZghEdfhHIULh';
 var SECRET_KEY = 'cgnAEhKrokh0lmUuuqFEmbpeEGXhQ4zt';
 var aipImgClient = new AipImgClient(APP_ID, API_KEY, SECRET_KEY);
 
+a='搜索'
+
+switch (a.slice(0,2)) {
+    case '搜索':
+        console.log('666')
+        break;
+
+    default:
+        break;
+}
+
+return
 HttpClient.setRequestOptions({timeout:5000});
 HttpClient.setRequestInterceptor(function(requestOptions) {
     return requestOptions;

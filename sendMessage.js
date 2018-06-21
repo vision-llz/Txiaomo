@@ -9,6 +9,9 @@ const request = require('request')
 const searchBingImg =require('./searchImg')
 
 function sendImg(params, name, bot) {
+    if (!params||params.length<1) {
+        return
+    }
     /**
      * 读取img文件夹，查找已保存的关键字图片url
      */
@@ -56,6 +59,9 @@ function sendImg(params, name, bot) {
                     let dataText = { dataName: params, dataArr: [], getUser: [] };
                     if (data && data.length > 0) {
                         for (const item of data) {
+                            if (item.contentUrl.indexOf('?') !==-1) {
+                                item.contentUrl=item.contentUrl.split('?')[0];
+                            }
                             if (item && item.contentUrl != null) dataText.dataArr.push(item.contentUrl);
                         }
                     } else {
@@ -121,13 +127,6 @@ function returnMsg(bot, url, urlname, userName) {
                     console.log(err)
                 })
             }) 
-        // bot.sendPic(url)
-        // .then(res=>{
-        //     return bot.sendPic(urlname + '.jpg', userName)
-        // })
-        // .catch(err=>{
-        //     returnErr(err, userName, bot)
-        // })
         
     } catch (error) {
         returnErr('请搜索别的关键字试试吧~', userName, bot)
@@ -139,4 +138,4 @@ function returnErr(msg,userName,bot) {
             bot.emit('error', err)
         })
 }
-module.exports={sendImg};
+module.exports = { sendImg, returnErr};
