@@ -1,7 +1,8 @@
 var request = require('request')
 var https = require('https')
+var http = require('http')
 var write = require('./write')
-
+const iconv = require('iconv-lite'); 
 
 const searchBingImg = (key)=>{
     let imgData=[]
@@ -54,13 +55,11 @@ const searchBingImg = (key)=>{
     }
 }
 
-const searchSoImg = (params)=>{
+const searchSoImg = (resolve,params)=>{
     let key = encodeURI(params);
-    // let url = 'http://image.baidu.com/search/acjson?tn=resultjson_com&ipn=rj&ct=201326592&is=&fp=result&queryWord=' + key + '&cl=2&lm=-1&ie=utf-8&oe=utf-8&adpicid=&st=-1&z=&ic=0&word=' + key+'&s=&se=&tab=&width=&height=&face=0&istype=2&qc=&nc=1&fr=&pn=10&rn=10&gsm=1e&1528461395633=';
     let url = 'http://image.so.com/j?q=' + key + '&src=srp&correct=' + key + '&sn=60&pn=100';
 // let url = 'http://pic.sogou.com/pics/channel/getAllRecomPicByTag.jsp?category=' + params + '&tag=' + params + '&start=15&len=15';
-// let url = 'http://www.polaxiong.com/collections/get_entries_by_tags/' +key+'?{}';
-// http://www.polaxiong.com/collections/get_entries_by_tags/'+key+'?{}
+    let arr = []
     http.get(url, (res) => {
         let datas = [];
         let size = 0;
@@ -76,12 +75,22 @@ const searchSoImg = (params)=>{
             }
             let buff = Buffer.concat(datas, size);
             let result = iconv.decode(buff, 'utf8');
-            return JSON.parse(result).list;
+            
+            JSON.parse(result).list.forEach(element => {
+                arr.push(element.thumb)
+            });
+            /**
+            * 以搜索关键字命名存入./media/imgNameArr
+            **/
+            // if (dataArr.length===0) {
+            //     return
+            // }
+            // writeFile.writeTxt(params, JSON.stringify(dataText))
+            console.log("数据搜索完成====>" + arr.length)
+            resolve(arr);
         })
     }).on('error', (err) => {
-        console.log(err)
+        console.log('数据搜索失败====>'+err)
     })
 }
-
-
 module.exports = { searchBingImg,searchSoImg }
