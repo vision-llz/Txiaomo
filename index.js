@@ -61,6 +61,7 @@ bot.on('user-avatar', avatar => {
  */
 bot.on('login', () => {
     console.log('登陆成功');
+    return
     fs.writeFileSync('./sync-data.json', JSON.stringify(bot.botData));
     console.log(bot)
     loginUserName = bot.botData.user.UserName;
