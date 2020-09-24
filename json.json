@@ -1,0 +1,2400 @@
+{
+    "commonPart": {
+        "appUpdateReminder": "应用下载中...",
+        "noMoreData": "没有更多数据",
+        "prompt": "提示",
+        "resendMessage": "确定重发消息吗？",
+        "reject": "拒绝",
+        "agree": "同意",
+        "sensitiveText": "内容敏感",
+        "hasconfirm": "确认",
+        "reset": "重置",
+        "pleaseEnter": "请输入",
+        "enterNumber": "请输入手机号",
+        "enterpassword": "请输入登录密码",
+        "cancel": "取消",
+        "confirm": "确定",
+        "enterCode": "请输入验证码",
+        "sendCode": "获取验证码",
+        "trueNumber": "请输入正确的手机号",
+        "codeState": "验证码已发送",
+        "incorrectCode": "验证码错误",
+        "passwordTip": "请输入不少于6位密码",
+        "clickSuccess": "点击下一步，代表您已阅读并同意",
+        "morning": "上午",
+        "afternoon": "下午",
+        "midnight": "凌晨",
+        "location": "位置",
+        "read": "已读",
+        "unread": "未读",
+        "preview": "预览",
+        "original": "原图",
+        "done": "完成",
+        "comment": "评论",
+        "just": "刚刚",
+        "minutes": "分钟前",
+        "hours": "小时前",
+        "days": " 天前",
+        "post": "发送",
+        "apply": "报名",
+        "sport": "运动健身",
+        "metting": "轰趴聚会",
+        "lunch": "吃货约饭",
+        "movie": "看电影",
+        "Game": "游戏上分",
+        "travel": "说走就走",
+        "Shopping": "陪我剁手",
+        "chat": "聊个天呗",
+        "look": "看颜",
+        "humour": "幽默",
+        "rich": "土豪",
+        "gentle": "贴心",
+        "carefree": "随心",
+        "whatever": "无所谓",
+        "annoucement": "发布",
+        "like": "赞",
+        "eventTheme": "节目主题",
+        "place": "地点",
+        "pending": "待定",
+        "targetPerson": "期望对象",
+        "selectMore": "可多选",
+        "time": "时间",
+        "selectDate": "选择日期",
+        "selectTime": "选择时间",
+        "insertPhoto": "配图",
+        "published": "发表",
+        "hideSex": "对同性用户隐藏",
+        "forbidComment": "禁止评论",
+        "selectPhoto": "选择照片",
+        "photo": "图片",
+        "allPhoto": "所有图片",
+        "noon": "中午",
+        "evening": "晚上",
+        "overNight": "通宵",
+        "allDay": "一整天",
+        "timeLimit": "不限时间",
+        "burntPic": "阅后即焚",
+        "name": "昵称",
+        "edit": "编辑资料",
+        "residentCity": "常驻城市",
+        "occupation": "职业",
+        "save": "保存",
+        "birth": "生日",
+        "hopePerson": "期望对象",
+        "back": "返回",
+        "certificatCenter": "认证中心",
+        "goddessVerify": "女神认证",
+        "goodness": "女神",
+        "realPerson": "真人认证",
+        "wallet": "钱包",
+        "zBeans": " Z豆 ",
+        "allpic": "所有照片",
+        "upDataFace": "更新面容记录",
+        "ok": "好的",
+        "continue": "继续",
+        "photoforbid": "请勿上传低俗裸露的照片，严重者将封号处理",
+        "hideSame": "对同性用户隐藏",
+        "wordforbid": "请注意谈吐文明，请勿发布低俗、色情交易、或曝光他人隐私的内容",
+        "clicklike": "点赞",
+        "haveDisableComments": "已禁止评论",
+        "haveComment": "已开放评论"
+    },
+    "notificate": {
+        "notificate": "新消息通知",
+        "offNotificate": "择Ta未打开时",
+        "onNotificete": "择Ta打开时",
+        "messageNotificate": "私聊消息通知",
+        "radioNotificate": "广播报名通知",
+        "likeNotificate": "新点赞提醒",
+        "bordercastNotificate": "新广播提醒",
+        "commentNotificate": "新评论提醒",
+        "dataNotificate": "新约会提醒",
+        "profileNotificate": "用户申请查看我的资料页",
+        "socianAccountNotificate": "用户查看我的社交账号",
+        "payPicNotificate": "用户查看我的付费照片",
+        "sendSocialAccount": "用户给我发送社交账号",
+        "requestNotificate": "用户通过了我的查看请求"
+    },
+    "lateAdd": {
+        "shareTipman": "免费领会员",
+        "shareTipWomen": "免费领Z豆",
+        "invitequalified": "邀请一位用户，邀请者和好友都能获得3天会员资格(仅限男士)",
+        "picLoading": "图片还未加载完",
+        "clickSubmit": "点击提交，代表您已阅读并同意",
+        "sessionExpired": "会话超时，请重新登陆 ",
+        "requestOut": "请求超时, 请刷新重试",
+        "unverifiedRisk": "女士未认证，可能存在风险"
+    },
+    "contactService": {
+        "contactService": "联系客服",
+        "wePublic": "微信公众号:",
+        "email": "邮箱",
+        "zTar": "择TA",
+        "onlineService": "在线客服"
+    },
+    "locationTip": {
+        "locationTip": "需要定位权限",
+        "fileLocation": "获取定位失败~",
+        "appUnstall": "客户端未安装"
+    },
+    "bottomTip": {
+        "ready": "请仔细阅读",
+        "concat": "和",
+        "carefully": "",
+        "service": "《择TA用户协议》",
+        "privacy": "《择TA隐私政策》"
+    },
+    "month": {
+        "jan": "01",
+        "feb": "02",
+        "mar": "03",
+        "apr": "04",
+        "may": "05",
+        "june": "06",
+        "july": "07",
+        "aug": "08",
+        "sept": "09",
+        "oct": "10",
+        "nov": "11",
+        "dec": "12"
+    },
+    "start": {
+        "aquarius": "水瓶座",
+        "pisces": "双鱼座",
+        "aries": "白羊座",
+        "taurus": "金牛座",
+        "gemini": "双子座",
+        "cancer": "巨蟹座",
+        "Leo": "狮子座",
+        "virgo": "处女座",
+        "libra": "天秤座",
+        "scorpio": "天蝎座",
+        "sagittarius": "射手座",
+        "capricorn": "摩羯座"
+    },
+    "location": {
+        "selectLoaction": "选择国家或地区",
+        "china": {
+            "name": "中国大陆地区",
+            "index": "Z",
+            "code": "+86"
+        },
+        "hongKong": {
+            "name": "香港地区",
+            "index": "X",
+            "code": "+852"
+        },
+        "macau": {
+            "name": "澳门地区",
+            "index": "A",
+            "code": "+853"
+        },
+        "taiwan": {
+            "name": "台湾地区",
+            "index": "T",
+            "code": "+886"
+        },
+        "american": {
+            "name": "美国",
+            "index": "M",
+            "code": "+001"
+        },
+        "canada": {
+            "name": "加拿大",
+            "index": "J",
+            "code": "+1"
+        },
+        "russia": {
+            "name": "俄罗斯",
+            "index": "E",
+            "code": "+7"
+        },
+        "ukraine": {
+            "name": "乌克兰",
+            "index": "W",
+            "code": "+380"
+        },
+        "japan": {
+            "name": "日本",
+            "index": "R",
+            "code": "+81"
+        },
+        "korea": {
+            "name": "韩国",
+            "index": "H",
+            "code": "+82"
+        },
+        "vietnam": {
+            "name": "越南",
+            "index": "Y",
+            "code": "+84"
+        },
+        "singapore": {
+            "name": "新加坡",
+            "index": "X",
+            "code": "+65"
+        },
+        "malaysia": {
+            "name": "马来西亚",
+            "index": "M",
+            "code": "+60"
+        },
+        "philippines": {
+            "name": "菲律宾",
+            "index": "F",
+            "code": "+63"
+        },
+        "thailand": {
+            "name": "泰国",
+            "index": "T",
+            "code": "+66"
+        },
+        "Indonesia": {
+            "name": "印度尼西亚",
+            "index": "Y",
+            "code": "+62"
+        }
+    },
+    "loginHome": {
+        "surequit": "确定退出系统吗？",
+        "allContry": "所有国家",
+        "contry": "国家/地区",
+        "registered": "还没有账号？ 马上注册",
+        "all": "全部 ",
+        "codeinvalid": "验证码失效",
+        "repeat": "手机号重复注册",
+        "incorrectarea": "区号或者手机号码不正确",
+        "changeSexTip": "注册后不能修改性别，确定么？",
+        "fullDetail": "填写完整详细信息，越能找到心仪的对象哦",
+        "who": "你是.......",
+        "must": "必填",
+        "name": "名称",
+        "mulitiple": "多选",
+        "login": "登录",
+        "register": "手机号注册",
+        "language": "语言切换",
+        "simplified": "中文（简体）",
+        "traditional": "繁体中文（香港）",
+        "languagetext": "简体",
+        "english": "英文",
+        "agreeTip": "登录注册即表示同意",
+        "agreement": "《择TA用户隐私政策》"
+    },
+    "login": {
+        "alertLogin": "弹窗：请输入账号",
+        "alertPassword": "弹窗：请输入密码",
+        "incorrectMessage": "用户名或密码错误",
+        "signUp": "注册账号",
+        "forgotPassword": "忘记密码"
+    },
+    "resetPassword": {
+        "resetPassword": "重置密码",
+        "phoneNotExist": "该手机号未绑定",
+        "resetPpassword": "请重置密码（6-12位）",
+        "resetNow": "立即重置",
+        "resetSuccess": "重置成功"
+    },
+    "register": {
+        "registerNumber": "手机号码注册",
+        "next": "下一步",
+        "userAgreement": "《择TA用户协议》"
+    },
+    "selectGender": {
+        "selectGender": "选择性别",
+        "sexM": "男士",
+        "sexF": "女士",
+        "unEdit": "确定性别后无法修改",
+        "pleSelect": "请选择性别",
+        "unChangeSex": "注册后将不能修改性别"
+    },
+    "editProfile": {
+        "knowMe": "让大家认识您",
+        "pleaseEnter": "请填写",
+        "pleaseSelect": "请选择",
+        "enterTime": "年/月/日",
+        "submitSucess": "提交资料成功",
+        "pic": "形象照",
+        "highPic": "优质的照片",
+        "increase": "提升异性缘8.6倍",
+        "sureQuit": " 确定要退出么？",
+        "personalProfileTip": "你还未完善个人信息，现在退出下次进入请用已注册账号直接登录",
+        "quit": "确定退出",
+        "continue": "继续完善",
+        "editProfile": "完善资料",
+        "uploadPhoto": "上传头像",
+        "nickName": "昵称",
+        "city": "所在城市",
+        "birthday": "生日",
+        "carrer": "职业",
+        "dateIdeas": "期待节目",
+        "ideas": "节目列表",
+        "idealPartner": "期望对象",
+        "partner": "期望对象",
+        "socialAccount": "社交账号（最少填写一个）",
+        "moreInfo": "更多信息",
+        "select": "选填",
+        "height": "身高",
+        "weight": "体重",
+        "individualResume": "个人简介",
+        "submit": "提交",
+        "userAgreement": "《择TA用户协议》"
+    },
+    "maleWelcome": {
+        "invitationcode": "邀请码",
+        "kindlywaittogether": "邀请码还未发放,申请后请耐心等待",
+        "noinvitation": "邀请码还未发放",
+        "kindlywait": "申请后请耐心等待",
+        "verified": "邀请码验证通过欢迎加入ZETAR！请勿把你的账户泄露给他人，一经发现登录异常，账户会被自动冻结。",
+        "optional": "选填",
+        "welcome": "欢迎使用",
+        "invitationCode": "请填写邀请码",
+        "joinTip": "择Ta仅向持有邀请码的男士提供服务",
+        "invitationTip": "您的邀请码",
+        "applyQ": "没有邀请码？您可以通过以下方式获取",
+        "methodO": "方式1",
+        "applyFree": "免费申请",
+        "apply": "马上申请",
+        "applyDocunment": "请填写申请资料，审核通过后会给您发送邀请码",
+        "checkCode": "查看邀请码",
+        "writeCode": "请填写邀请码",
+        "codeUnexit": "您输入的邀请码不存在",
+        "writeAgain": "重新输入",
+        "codeFree": "免费申请邀请码"
+    },
+    "applyCode": {
+        "applyCode": "申请邀请码",
+        "city": "所在地 - 所在的城市",
+        "infoSource": "信息渠道 - 从哪里知道择Ta",
+        "weChat": "微信号 - 请填写微信账号",
+        "referrer": "推荐人 - 选填",
+        "submit": "提交申请",
+        "writeLocation": "请填写所在地",
+        "writeSource": "请填写信息渠道",
+        "wtiteWeChat": "请填写微信号",
+        "submitSuccess": "提交成功",
+        "applyTip": "感谢使用择Ta，我们将尽快处理您的申请，审核通过后您将会在消息中心收到我们发送的邀请码。"
+    },
+    "verifiedPassTip": {
+        "verified": "邀请码验证通过",
+        "verifiedTip": "欢迎加入择Ta！请勿把您的账户信息泄露给他人，一经发现登录异常，账户会被自动冻结。",
+        "kindlywait": "邀请码暂未发放，请耐心等待"
+    },
+    "quitSure": {
+        "quitSure": "确定要退出吗？",
+        "quitTip": "个人信息未完善，现在退出后请用该账号直接登录",
+        "quit": "确认退出",
+        "continue": "继续完善"
+    },
+    "infoCenter": {
+        "infoCenter": "消息中心",
+        "chat": "聊天",
+        "systemInfo": "系统消息",
+        "insertPic": "贴图",
+        "photo": "图片",
+        "msgError": "消息发送失败"
+    },
+    "needTip": {
+        "needTip": "您需要",
+        "blockUser": "拉黑（屏蔽双方）",
+        "statusTip": "将无法看到对方和对方的动态，确定吗？",
+        "unblock": "移出黑名单（屏蔽双方）",
+        "moreFunction": "更多操作"
+    },
+    "alertTip": {
+        "alertTip": "请文明交流，通过平台进行违法活动交流将封号处理",
+        "netWorkFlow": "网络已断开，请查看网络设置",
+        "burntPicTip": "阅后即焚照片，长按查看",
+        "PicAlbum": "相册",
+        "camera": "拍摄",
+        "burntPic": "阅后即焚",
+        "sending": "发送中"
+    },
+    "allPic": {
+        "allPic": "所有照片",
+        "useNumber": "他使用了1次会员权限跟你私聊"
+    },
+    "broadcastNews": {
+        "liked": "你已经点过赞了",
+        "removed": "已移除",
+        "hasblacked": "对方已经把你拉黑～",
+        "locationService": "请在APP中使用位置服务",
+        "functionNew": "功能还在拼命开发中...",
+        "closedcomment": "对方关闭了评论",
+        "noVIPcomment": "非会员不能评论",
+        "becomeVIP": "成为会员",
+        "Notverified": "你还没进行认证",
+        "commemtTip": "认证你的真实性后，才能评论",
+        "verfifynow": "马上认证(10秒认证完成)",
+        "replySelf": "不能回复自己的评论",
+        "disablecomment": "已关闭评论",
+        "beVip": "成为会员，免费报名",
+        "deleteprogram": "确定删除这条节目吗",
+        "deleteDynamics": "确定删除这条动态吗",
+        "sureDelete": "确定删除",
+        "likeSuccess": "点赞成功",
+        "signedUp": "你已报名",
+        "sameGender": "不能报名同性的节目",
+        "dataOver": "约会已结束",
+        "signTip": "认证你的真实性后，才能报名",
+        "novip": "非会员不能报名哦",
+        "fullFace": "报名需要发送你的正脸照?",
+        "onlySeeWom": "（只有她能看到）",
+        "onlySee": "（只有他能看到）",
+        "unempty": "内容不能为空",
+        "commentSucess": "评论成功",
+        "sending": "发送中",
+        "signupSucess": "报名成功!",
+        "willContact": "如果对方觉得合适将会联系你",
+        "knowed": "知道了",
+        "programClose": "已关闭节目",
+        "me": "我",
+        "uncommentsame": "不能评论同性的广播",
+        "removeBlock": "移除黑名单（屏蔽双方）",
+        "youWill": "你将要",
+        "selectmap": "请选择地图",
+        "google": "谷歌",
+        "baidu": "百度",
+        "healthyChat": "健康交流，借平台进行违法活动交流将被冻结账号",
+        "myLocation": "我的位置",
+        "unviewSelf": "不可查看自己",
+        "loading": "用户信息加载中...",
+        "noFriend": "你们不是好友关系，或是对方已把你拉黑",
+        "failInfo": "获取信息失败～",
+        "failSendPic": "发送图片失败",
+        "noViewEachOther": "你们将无法看到对方和对方的动态，确定吗？",
+        "Operaterr": "参数异常，操作失败",
+        "yetavailable": "功能还在拼命开发中...",
+        "starttime": "开始时间不能小于现在",
+        "selectCity": "请选择城市",
+        "dataTime": "约会时间未选择或日期错误(约会日期不能小于当前日期)",
+        "selectperiod": "请选择约会时间段",
+        "ifpay": "是否花费500豆发布节目",
+        "postprogram": "发布节目？",
+        "unlimitedly": "(升级为女神可无限制免费发布)",
+        "wetherpayment": "是否充值",
+        "delect": "删除好友成功",
+        "sureDelect": "你确定要删除该好友吗？",
+        "ideaone": "理想中的你",
+        "haveProgram": "已有发布中的节目",
+        "unuser": "没有用户信息",
+        "onlybroadcaster": "只有发布者才能看到你的评论",
+        "closecomment": "关闭评论",
+        "opencomment": "开启评论",
+        "cancel": "取消拉黑",
+        "reply": "回复",
+        "viewMore": "查看更多",
+        "unverified": "未认证",
+        "withdraw": "认证撤销",
+        "Pending": "真人认证审核中...",
+        "burntPhoto": "已焚照片",
+        "applyagree": "已通过申请",
+        "applyReject": "已拒绝申请",
+        "uninfo": "没有相关信息",
+        "goLook": "去看看",
+        "zetarNews": "择TA消息",
+        "comment": "评价",
+        "broadcastNews": "电台消息",
+        "broadcastTip": "xxx在xx市发布了一条广播，点击查看",
+        "signUp": "马上参加",
+        "clickView": "您喜欢的xxx发布了了一条广播，点击查看",
+        "willCancel": "由于时间已过，您的节目已经自动结束了。",
+        "netErr": "当前网络情况不佳，请刷新或重新登录。如需帮助，请联系客服。",
+        "error": "错误：",
+        "errorTxt": "抱歉，消息发送失败，请刷新后重试。如需帮助，请联系客服。"
+    },
+    "eventDetails": {
+        "eventDetails": "节目详情",
+        "signUp": "我要参加",
+        "eventEnd": "该节目已经结束了哦",
+        "sumbitPicTip": "参加需发送您的正脸照片（只有对方能看到）",
+        "selectPic": "选择照片",
+        "addBlacklist": "加入黑名单",
+        "disableComment": "评论已关闭",
+        "commentTip": "只有发表者能看见您的评论",
+        "broadcastDeleted": "该广播已删除"
+    },
+    "walletnotice": {
+        "walletnotice": "钱包提醒",
+        "payPic": "xxx查看了您的付费照片",
+        "viewPic": "xxx查看了您的相册",
+        "unlocked": "xxx解锁了与您私聊的权限",
+        "viewPayPic": "xxx查看了您的付费照片",
+        "zBeansTip": "您的Z豆兑消申请已处理，已转账xx元到您的账号，请查收。",
+        "wallet": "钱包"
+    },
+    "like": {
+        "like": "点赞",
+        "likedStatus": "xxx赞了您的动态",
+        "likedBbroadcast": "xxx赞了您发布的节目"
+    },
+    "viewApplicat": {
+        "viewApplicat": "查看申请",
+        "requestInfo": "请求查看您的资料",
+        "profile": "Ta的主页",
+        "requested": "已通过请求",
+        "approved": "允许（有效期15天）",
+        "declined": "拒绝",
+        "declinedTip": "xxx已拒绝您的查看申请",
+        "acceptedTip": "xxx已通过您的查看申请，有效期15天"
+    },
+    "commented": {
+        "commentedStatus": "xxx评论了您的动态",
+        "commentedBbroadcast": "xxx评论您的节目",
+        "repliedcomment": "xxx回复了您的评论"
+    },
+    "zetarNew": {
+        "zetarNew": "择Ta消息",
+        "uploadFailTip": "您新上传的照片没有通过审核，原因：无法核实是否本人",
+        "unUploadReaonTip": "您新上传的照片没有通过审核，原因：照片非本人",
+        "videoFailTip": "您新上传的视频没有通过审核，原因：视频非本人",
+        "unVideoReasonTip": "您新上传的视频没有通过审核，原因：无法核实是否本人",
+        "congratulate": "恭喜，您新上传的照片已通过审核。",
+        "importTip": "【重要提示】收到部分用户反馈，在使用xxxx功能是无法提交，请重新下载客户端",
+        "notificationTip": "社交账号修改通知：您的个人资料中社交账号的性别与择Ta不一致，为保证您的账号可以正常使用，请于24小时内更改，如需帮助请咨询人工客服。",
+        "informationInaccurate": "您的认证资料由于不符合要求，需要重新修改再提交。原因:个人资料需要填写微信。填写的QQ/微信性别与择Ta不一致，请核实是否正确或更换其他社交账号。点击查看详情。",
+        "profilereset": "您的个人介绍\"xxx\"已被重置。原因：涉及敏感内容，请勿输入敏感内容，严重者将被封号。",
+        "unApplicationResonO": "抱歉，您的女神认证申请未通过，原因：上传的资料光线较差或没有清晰展示正脸。",
+        "unApplicationResonT": "抱歉，您的女神认证申请未通过，原因：填写的社交账号不存在，请检查是否关闭了账号搜索功能。",
+        "unApplicationResonS": "抱歉，您的女神认证申请未通过，原因：个人资料需要填写2个社交账号。",
+        "unApplicationResonF": "抱歉，您的女神认证申请未通过，原因：账号异常，暂时无法通过验证，请联系客服。"
+    },
+    "signup": {
+        "signEvent": "xxx报名了你的节目，快去看看吧",
+        "see": "快去看看吧"
+    },
+    "socialMedia": {
+        "socialMedia": "社交账号",
+        "sendInfo": "xxx向您发送了社交账号xxx"
+    },
+    "memberCenter": {
+        "memberCenter": "会员中心",
+        "memberPrivileges": "会员特权",
+        "friendMore": "【交友更多】",
+        "friendShip": "不限次数查看感兴趣的用户，快速交友不用愁。",
+        "enjoyTip": "【发布不限】",
+        "enjoyMore": "可不限次数发布交友广播，节目越多，交友机会越多。",
+        "saveMoreTip": "【消费更省】",
+        "saveMore": "每天有10次免费机会查看付费项目，包括相册、社交账号等。",
+        "experienceTip": "【体验更佳】",
+        "experienceMore": "阅后即焚照片的查看时间从2秒提升到6秒，享受更佳视觉体验。",
+        "firstPackage": "首充套餐",
+        "vip": "会员",
+        "seven": "7天",
+        "ZBeans": "392 Z豆",
+        "PurchaseNow": "立即开通"
+    },
+    "selectPackage": {
+        "selectPackage": "选择套餐",
+        "halfMonth": "半个月",
+        "oneMonth": "1个月",
+        "threeMonth": "3个月",
+        "sixMonths": "6个月",
+        "zMonths": "Z豆/月",
+        "recommend": "推荐",
+        "Month": "月"
+    },
+    "memberCenterT": {
+        "vipTip": "您已经是择Ta会员，选择套餐可享受",
+        "size": "会员续费折扣"
+    },
+    "payment": {
+        "payment": "支付",
+        "current": "可用余额: 0 Z豆",
+        "buy": "购买",
+        "vipMembership": "特权兑换",
+        "pay": "支付",
+        "zNumber": "3880 Z豆",
+        "recharge": "充值",
+        "confirmPay": "确认支付",
+        "zTip": "抱歉，你的Z豆余额不足",
+        "purchaseTip": "请充值后再完成支付"
+    },
+    "paymenting": {
+        "paymenting": "正在支付中，请稍候",
+        "payTip": "如果充值未及时到账，请勿重复付费，可联系客服咨询",
+        "cancelTip": "已取消支付",
+        "rePay": "请勿重复支付，未及时到账请联系客服",
+        "busySystem": "系统繁忙，交易失败，稍后再试!",
+        "paySuccess": "支付成功"
+    },
+    "broadcast": {
+        "broadcast": "电台",
+        "begintime": "发布时间",
+        "activeTime": "活动时间",
+        "sexAll": "不限性别",
+        "inviteMale": "只看男士",
+        "inviteFemale": "只看女士",
+        "locationAll": "不限地区",
+        "selected": "情况已选",
+        "disComment": "评论已关闭",
+        "wentSignUp": "我要报名"
+    },
+    "tip": {
+        "healthTip": "健康交流，请勿广播低俗内容，一经发 现将作删除处理",
+        "dtDetail": "动态详情",
+        "ifComment": "只有发布者能看见你的评论",
+        "haveLike": "已经点赞了哦",
+        "location": "位置"
+    },
+    "photoTip": {
+        "photoTip": "报名需发送你的正脸照片(只有对方能看到)"
+    },
+    "postEvent": {
+        "postEvent": "发节目",
+        "option": "(可不传)",
+        "picTip": "请勿上传裸露低俗照片，严重者将封号处理",
+        "godessFree": "女神用户可以免费发表",
+        "selectTarget": "请选择期望对象",
+        "dataExpired": "约会时间已过期，请更改"
+    },
+    "broadcastTime": {
+        "broadcastTime": "请选择广播时间"
+    },
+    "postedTip": {
+        "postedTip": "发布成功!如有男士参加，你将会收到通知",
+        "know": "知道了",
+        "broadcast": "我发布的",
+        "endActive": "请先结束正在生效的节目",
+        "enableComment": "已禁止评论",
+        "openComment": "开发评论",
+        "delectEvent": "删除节目",
+        "confirmCancel": "确定要删除这条广播吗？",
+        "eventDeleted": "该约会已删除"
+    },
+    "eventDetail": {
+        "eventDetail": "节目详情",
+        "closeSign": "结束报名",
+        "confirmClose": "确定结束吗",
+        "unSignUp": "暂时没人报名哦",
+        "unCommentTip": "不能评论自己的广播哦"
+    },
+    "postBroadcast": {
+        "postBroadcast": "发动态",
+        "alertO": "文明用语更受欢迎哦！请勿发布低俗、色情交易、或曝光他人隐私的内容",
+        "alertT": "请勿上传裸露低俗的照片，严重者将作封号处理",
+        "godessFree": "女神用户可以免费发布",
+        "myBroadcast": "我的动态",
+        "deletePost": "删除动态",
+        "confirmDel": "确定删除这条动态吗",
+        "deleted": "删除成功"
+    },
+    "myBroadcast": {
+        "postBroadcastTip": "发布动态可获得更多关注哦",
+        "sendBroadcast": "发布动态"
+    },
+    "userEdit": {
+        "broadcastMessage": "广播详情",
+        "detail": "详情",
+        "delbroadcast": "该广播已经被删除",
+        "norelate": "没有相关",
+        "unrelatedbroadcast": "没有相关广播",
+        "saved": "保存成功",
+        "applyFied": "申请失败",
+        "fileSave": "保存失败！请检查权限是否开放",
+        "viewPage": "所有男士都必须发照片让您验证身份后才能浏览您的主页，确定吗？",
+        "paidPhoto": "付费照片",
+        "paidAlbumed": "收费相册",
+        "have": "已有",
+        "dayAgo": "天前",
+        "hourAgo": "小时前",
+        "minutesago": "分钟前",
+        "choosePic": "最多选择一张照片作为付费照片，用户必须消费30Z豆才能查看",
+        "problemPic": "个人焚毁了你的照片",
+        "vipmember": "VIP会员",
+        "wantChangePsw": "你想修改绑定的手机号码吗",
+        "verificatecode": "此验证码将于",
+        "videolasts": "秒后过期用普通话朗读数字，视频时长",
+        "secondsbetter": "秒最佳",
+        "shakehead": "请左右摇头，眨眼等规范动作",
+        "startrecording": "记住了，开始录制",
+        "uploadLess": "最多上传9张照片",
+        "assuredTip": "放心，面容识别不会公开",
+        "purchase": "未开通",
+        "freeRadio": "免费发广播",
+        "commentmenRadio": "评论男士广播",
+        "joinMen": "报名男士广播",
+        "privatemen": "私聊男士",
+        "removed": "移除成功",
+        "userRules": "平台使用规范",
+        "privacyPolicy": "用户隐私政策",
+        "changepassword": "你想修改密码吗",
+        "morepopular": "经过认证的你会更受欢迎哟！",
+        "faceRecognition": "将通过面容识别进行真人认证",
+        "hasGold": "你已获得择TA女神认证",
+        "Zetar": "择TA",
+        "unlimited": "无限制查看感兴趣的用户、用户的私密照",
+        "join": "立即加入",
+        "verificationCenter": "认证中心",
+        "goThrough": "开通真人、女神认证，提升你的魅力",
+        "upload": "点击上传",
+        "myself": "本人",
+        "share": "分享",
+        "friending": "朋友圈",
+        "ShareFriends": "分享好友",
+        "setsuccess": "设置成功",
+        "unAuthentic": "真人认证不通过",
+        "goddessSuccess": "女神认证已通过",
+        "unGodess": "女神认证不通过",
+        "goddessPend": "女神认证审核中...",
+        "AuthenticSuccess": "真人认证已通过",
+        "authenticpend": "真人认证审核中...",
+        "incorrectAccount": "账号格式不正确",
+        "alipayTip": "支付宝名称不能为空",
+        "successLink": "绑定成功",
+        "you": "你",
+        "unamount": "金额不能为空",
+        "inviteFriend": "邀请好友",
+        "hasVip": "已开通会员",
+        "validTill": "有效期至",
+        "Bean": "豆",
+        "sizeFirst": "首单优惠",
+        "paymentItem": "支付项目",
+        "total": "支付总额",
+        "day": "天",
+        "dies": "日",
+        "month": "月",
+        "year": "年",
+        "album": "的相册",
+        "send": "赠送Z豆",
+        "payPicBurn": "阅后既焚的付费照片",
+        "successUpload": "上传成功",
+        "he": "他",
+        "she": "她",
+        "frontCamera": "开启前置摄像头，点击录制时长为8s以内",
+        "finish": "完成录制，等待验证结果",
+        "uploadPic": "上传照片",
+        "uploadlater": "稍后再传",
+        "noPhoto": "相册中还没有上传本人照片",
+        "contrastpic": "上传本人露脸照到相册，照片与面容数据对比通过后，可立即通过认证",
+        "identified": "相册中没有识别到本人照片,已提交到人工审核",
+        "videoMatch": "会员视频与本人不匹配",
+        "unSupport": "视频验证格式不支持AVC。请联系客服进行人工真人认证。",
+        "videoFail": "视频录制失败~",
+        "smallEvent": "节目",
+        "event": "节目",
+        "mine": "我的",
+        "selectThem": "请选择节目主题",
+        "hasProgram": "已有发布中的节目",
+        "unviewDetail": "你将无法再看到对方的动态",
+        "fileInfo": "填写完整详细信息，越能找到心仪的对象哦",
+        "name": "名称",
+        "dataList": "节目列表",
+        "changeSuccess": "修改成功",
+        "verifyPhoto": "验证图片",
+        "unType": "不支持该类型",
+        "selectPicUpload": "请选择图片再上传",
+        "submited": "已提交",
+        "faceVerifcation": "人脸认证",
+        "compareAlbum": "正在对比你的个人相册",
+        "lookTel": "正面平视手机、保证光线充足",
+        "unFace": "请勿遮挡面部",
+        "clickBegin": "点击开始录制",
+        "unOldPsw": "旧密码不能为空",
+        "pswLength": "密码不能小于6位",
+        "newSet": "新密码设置不少于6位",
+        "unNewPsw": "新密码不能为空",
+        "changeSucces": "修改成功",
+        "originalWrong": "原始密码错误",
+        "samePsw": "新密码与旧密码一致",
+        "remove": "移除",
+        "sameview": "不能查看同性用户",
+        "truemanpending": "真人认证审核中",
+        "uploadMorePic": "上传更多本人照片",
+        "receiveTime": "我们将在12小时内完成审核，上传更多本人照片更容易验证成功",
+        "albumNoPic": "相册中没有本人照片，你的认证不通过",
+        "uploadSelfPic": "上传本人照片，重新认证",
+        "applyAfter": "（3天后可申请）",
+        "gloded": "你已通过女神认证",
+        "authenticed": "你已通过真人认证",
+        "PrivilAuthentic": "真人特权",
+        "PrivilGoddess": "女神特权",
+        "conditionGoddess": "没有通过真人认证不能做女神认证",
+        "upgrade": "马上升级会员",
+        "surePay": "确定付费",
+        "deletePic": "确定删除这张照片吗？",
+        "areaCode": "区号",
+        "selectCode": "请选择区号",
+        "self": "我的",
+        "applePay": "苹果支付",
+        "wechatPay": "微信支付",
+        "alipay": "支付宝支付",
+        "discern": "根据系统识别的平台类型",
+        "payFail": "支付失败",
+        "failPass": "你没有通过女神认证",
+        "setFail": "设置失败",
+        "unapproved": "审核未通过",
+        "ageConstellation": "年龄-星座",
+        "real": "真实",
+        "faceTip": "已通过面容识别认证您的真实性",
+        "goodnessProve": "已获得女神认证",
+        "certificatRevocation": "您的认证已被撤销",
+        "privacy": "隐私",
+        "myBroadcast": "我的节目",
+        "moments": "我的动态",
+        "myAlbum": "我的相册",
+        "upLoadPic": "上传照片",
+        "pending": "审核中",
+        "setPayPic": "设置付费照片",
+        "sensitiveContent": "内容敏感已屏蔽",
+        "operationTip": "操作太频繁，请在X天后重试",
+        "uploadMyPic": "上传本人照片至相册"
+    },
+    "albumTip": {
+        "albumTipEdit": "长按编辑排序，",
+        "albumTip": "请勿上传非法裸露低俗的照片/视频，严重者将封号",
+        "myComments": "我的评价",
+        "myFavorites": "我喜欢的",
+        "blacklist": "黑名单",
+        "visitors": "历史访客",
+        "peopleHave": "有",
+        "peopleView": "个人看过您",
+        "peopleViewTip": "",
+        "burntTip": "已有XXX个人查看您的阅后即焚",
+        "clickRecovery": "一键恢复",
+        "setting": "设置",
+        "beingPushed": "消息推送、修改密码",
+        "shareZetar": "与好友分享择Ta",
+        "shareOn": "分享有奖",
+        "needHelp": "需要帮助",
+        "concatUs": "联系客服",
+        "recoverTip": "是否恢复已被用户焚毁的照片？（恢复后已经焚毁的用户可以再次查看）"
+    },
+    "editData": {
+        "editData": "编辑资料",
+        "basic": "基本资料(必填)",
+        "changeNumber": "本月可改",
+        "numberUnit": "次",
+        "dateIdeas": "期待节目",
+        "moreChoose": "最多可选择6个",
+        "chooseFour": "最多可选择4个",
+        "socialAccount": "社交账号（最少填写一个）",
+        "lessone": "(最少填写一个)",
+        "QQ": "QQ",
+        "weChat": "微信",
+        "hideAccount": "我的用户资料隐藏社交账号",
+        "moreOption": "更多信息",
+        "selectEnter": "(选填)",
+        "height": "身高",
+        "weight": "体重",
+        "Personalintroduction": "个人介绍",
+        "enterWord": "最多输入300个字",
+        "monthChangeTip": "本月可改X次",
+        "sameType": "社交账号不能选择相同类型",
+        "unchange": "本月无法再修改"
+    },
+    "socialAccountTip": {
+        "socialAccountTip": "此社交账号类型暂停使用，无法提交"
+    },
+    "enterDating": {
+        "enterDating": "期待节目",
+        "chooseDate": "最多只能选择6个约会节目"
+    },
+    "hopePerson": {
+        "choosePerson": "最多只能选择6个期望对象哦"
+    },
+    "residentCity": {
+        "residentCity": "所在城市",
+        "chooseMore": "最多可以选择",
+        "chooseCity": "个常驻城市"
+    },
+    "warnTip": {
+        "warnTip": "账号风险提示",
+        "wranTipContent": "您的用户资料异常，暂时将您的账号列为可疑账号，请尽快验证进行解锁！"
+    },
+    "photos": {
+        "sensitiveContent": "内容敏感已屏蔽",
+        "congratulations": "恭喜！您上传的新照片已通过审核",
+        "dressSexy": "着装过于性感",
+        "unaccord": "不符合国家政策"
+    },
+    "verificat": {
+        "privilVerificat": "认证特权",
+        "freeSendRadio": "免费发表节目",
+        "joinProgram": "参加节目",
+        "commonProgram": "评论节目",
+        "privateChat": "私聊",
+        "paidPhoto": "付费照片",
+        "paidAlbum": "锁定相册",
+        "faceRecognaTip": "将通过面容识别进行真人认证",
+        "faceAutoTip": "面容识别由系统自动完成，只需数秒",
+        "startRecong": "开始认证",
+        "onlyAssured": "面容识别仅用于验证，不公开不作其他用途",
+        "leastPhoto": "我的相册中至少要有一张真人露脸照片才可以进行认证哦。"
+    },
+    "certificatCenter": {
+        "openMonth": "请张下嘴",
+        "operationTip": "请本人操作，点击按钮开始",
+        "startRightNow": "马上开始",
+        "addHead": "增加点头幅度",
+        "nodeHead": "请上下点头",
+        "comparePhoto": "面容识别数据采集成功",
+        "contrast": "正在对比您的个人照片",
+        "shouldPhoto": "相册中至少要有一张个人照片",
+        "ifVerificat": "通过面容识别才能完成认证",
+        "verificatFaile": "验证不通过",
+        "actionTio": "运动频率不要太快，建议摘掉眼镜等饰品",
+        "faceLike": "你的样子不能跟之前差太远哦",
+        "identify": "开始识别",
+        "congratsface": "恭喜你更新了你的面容记录！"
+    },
+    "invitationBeauty": {
+        "invitationBeauty": "若你对自己很有自信",
+        "special": "可进行女神认证，获得特殊标识",
+        "loadSelf": "请上传你的本人",
+        "face": "露脸",
+        "pic": "的照片",
+        "check": "我们会对你的资料进行审核,",
+        "result": "你会在12小时内收到审核结果.",
+        "beautyStepOne": "请上传你的本人露脸的照片、视频，我们会对你的资料进行审核。你会在12小时内收到审核结果.",
+        "submitPhoto": "最多可提交9张照片，作为女神认证",
+        "receiveNotificat": "你的认证资料已提交，我们将在12小时内完成审核，你会收到审核结果的通知消息.",
+        "haveThrough": "你已通过真人认证",
+        "shareLook": "若你变得更美，记得告诉我们哦",
+        "beautyPending": "女神认证（资料待修改）",
+        "pending": "认证资料待修改",
+        "mismatch": "你提交的资料不符合认证条件，请跟进以下原因修改后",
+        "failedAccount": "账号异常，暂时无法通过女神认证，请咨询人工客服处理",
+        "resubmit": "重新提交认证"
+    },
+    "wallet": {
+        "getZbeansTip": "你可以通过充值，相册等途径获取Z豆。Z豆可用于提现。",
+        "zBeansIncomeTip": "Z豆进账3天内没人举报你即可兑",
+        "zBeansBalance": "Z豆总额",
+        "withdrawal": "可提现",
+        "alipay": "支付宝",
+        "account": "账号",
+        "yourAccount": "你的",
+        "accountSecret": "账号（保密）",
+        "realName": "姓名（实名认证名字）",
+        "ValidAccount": "请填写有效的账号",
+        "paidVideo": "XXXX查看了你的付费视频",
+        "paidPhoto": "XXXX查看了你的付费照片",
+        "unlockChat": "XXXX解锁了与你私聊的权限",
+        "applyWithdrawal": "你申请了兑消",
+        "unlockPhoto": "XXXX解锁了你的相册",
+        "recharge": "充值",
+        "contactUs": "咨询客服",
+        "haveCancel": "您已取消支付",
+        "balance": "余额",
+        "userName": "用户名",
+        "cashInfo": "提现账号信息",
+        "alipayNmae": "支付宝账号名",
+        "zBeansAmount": "可提现Z豆金额",
+        "withdrawRightNow": "立即申请提现Z豆",
+        "WithdrawTip": "您有XXXX个Z豆可提现，确定申请提现吗？",
+        "submitRequest": "提现申请已提交",
+        "processedTip": "我们将在2个工作日内处理，如有疑问可咨询客服"
+    },
+    "privacy": {
+        "privacy": "隐私",
+        "personalDetail": "个人详情",
+        "public": "公开（推荐）",
+        "lookPhoto": "相册付费查看",
+        "throughCheck": "查看前需通过我验证",
+        "hide": "隐身",
+        "hideList": "在首页列表隐藏我",
+        "hideDistance": "隐藏距离和在线时间",
+        "hideMyDistance": "对他人隐藏我的距离",
+        "hideOline": "对他人隐藏我的在线时间",
+        "socialAccount": "社交账号",
+        "privateChat": "隐藏后，社交账号将显示“私聊索取”",
+        "hideSocialAccount": "隐藏我的社交账号",
+        "unvipLookTip": "非会员男士需要解锁才可以查看您的照片哦，查看所需Z豆由您设定。",
+        "vipLookTip": "会员男士可使用一次查看机会解锁您的相册",
+        "setAmount": "设置查看金额",
+        "inputAmount": "金额",
+        "zBeansRate": "Z豆可兑换（20:1）",
+        "numberMultiples": "输入的金额需要是20的倍数",
+        "fillbean": "请输入 Z豆",
+        "manviewTip": "所有男士都必须发照片让您验证身份后才能浏览您的主页，确定吗？",
+        "womenviewTip": "所有女士都必须发照片让您验证身份后才能浏览您的主页，确定吗？"
+    },
+    "myPrograme": {
+        "entertainment": "我的邀约",
+        "unProgram": "您没有发表过节目",
+        "postEntertainment": "发表节目",
+        "publishProgram": "请介绍生效的节目再发表",
+        "freeChanceTip": "您的免费机会已用完",
+        "programLimit": "非女神用户每天可免费发送5条节目，女神没有限制哦",
+        "payPublish": "付费发布（500 Z豆）",
+        "selectProgram": "约节目",
+        "chlickSelect": "点击选择",
+        "moreChoose": "最多选择4个",
+        "city": "城市",
+        "addInstruction": "补充说明",
+        "unMust": "（选填）",
+        "photo": "配图",
+        "unpreach": "(可不传)",
+        "freebeauty": "女神免费无限发布",
+        "remainChance": "今天还可以发5条",
+        "whetherShop": "是否花费500Z豆发表节目？",
+        "whetherDynamics": "是否花费500Z豆发表动态？",
+        "whateverrechange": "余额不足500 Z豆，是否充值？",
+        "selectProgramType": "选择节目主题",
+        "chancePerson": "选择期望对象",
+        "moreChoosePerson": "最多只能选择4个期望对象",
+        "selectDate": "请选择日期",
+        "selectTime": "请选择时间",
+        "feel": "随心",
+        "care": "贴心",
+        "myPrograme": "我的节目",
+        "publicTip": "发表成功!如有报名您会收到通知",
+        "oneHour": "1小时前",
+        "join": "参加",
+        "overJoin": "结束参加",
+        "hasOver": "已结束",
+        "uncomment": "该节目已经结束无法评论",
+        "seecomment": "大家都能看到您的评论",
+        "sensitiveContent": "内容敏感已屏蔽",
+        "progrmaDetail": "节目详情",
+        "sureEnd": "确定要结束？结束后，其他用户不可参加您的节目。",
+        "unSignUp": "暂时无人报名",
+        "programEnd": "节目已结束，无需设置关闭评论",
+        "signUpProgram": "报名了你的节目",
+        "privateChat": "私聊",
+        "sureReport": "确定举报这条报名信息吗？",
+        "sureReportTip": "确定举报",
+        "need": "您需要",
+        "disableTip": "关闭消息提醒",
+        "block": "拉黑(屏蔽双方)",
+        "endTitle": "确定结束吗"
+    },
+    "sendingMoment": {
+        "dynamic": "发动态",
+        "glodFree": "女神可以免费发布"
+    },
+    "myPhoto": {
+        "upload": "上传类型",
+        "photo": "照片",
+        "video": "视频",
+        "paidPhotoTip": "最多可以选择1张照片作为付费照片，用户必须消耗30Z豆才能查看",
+        "paidPhoto": "付费照片",
+        "myself": "本人",
+        "delete": "删除",
+        "readBurn": "阅后即焚（查看2秒后焚毁）",
+        "deleteSure": "确认删除照片",
+        "deleteTip": "删除这张照片后，认证状态将被撤销(相册中至少保留1张通过面容识别的照片) ,重新上传本人露脸照片后恢复认证，确定删除吗?"
+    },
+    "favorite": {
+        "favorite": "我喜欢的",
+        "favoritesList": "您喜欢的男士列表",
+        "protectPrivacy": "为保护用户隐私，隐藏用户会被屏蔽",
+        "cancelCollection": "取消收藏",
+        "black": "拉黑",
+        "blackList": "黑名单",
+        "checkBlackList": "已拉黑男士列表",
+        "cancelShiel": "取消屏蔽",
+        "removeBlackList": "已移出黑名单"
+    },
+    "setting": {
+        "setting": "设置",
+        "notification": "新消息通知",
+        "language": "语言选择",
+        "mobile": "手机号码",
+        "onlyMe": "(仅自己可见)",
+        "changePassword": "修改密码",
+        "cleanInfo": "清除图片缓存",
+        "userAgreement": "用户使用协议",
+        "cacheSuccess": "缓存清除成功",
+        "logOut": "退出登录",
+        "sureLogOut": "确定退出账号吗?"
+    },
+    "changePassword": {
+        "changePassword": "修改密码",
+        "linkMmobile": "用户需要先绑定手机号码才可设置登录密码",
+        "oldPassWord": "原密码",
+        "currentPsw": "请输入当前登录密码",
+        "newPassword": "新密码",
+        "newPswTip": "请设置新密码，不少于6位",
+        "sureChange": "确定修改绑定的手机号码吗?",
+        "sureConfirm": "确认修改"
+    },
+    "linkTel": {
+        "linkTel": "绑定手机号",
+        "linkTelTip": "绑定手机号保障您的账户安全",
+        "enterTel": "请输入手机号",
+        "code": "验证码",
+        "enterCode": "请输入收到的验证码",
+        "send": "发送验证码",
+        "codeSend": "验证码已发送",
+        "setPassword": "设置密码",
+        "notLess": "密码不少于6位",
+        "alreadyLink": "该手机号已绑定"
+    },
+    "unProfile": {
+        "smallHis": "他的",
+        "smallHer": "她的",
+        "his": "他的",
+        "her": "她的",
+        "justmeet": "约，就这么简单！",
+        "promote": "我要推广",
+        "receiveFriend": "每邀请一位有效好友",
+        "getBean": "都能获得 Z 豆",
+        "rules": "活动规则",
+        "invitefemale": "邀请认证女用户",
+        "invitemale": "邀请男会员",
+        "earn": "去邀请赚钱",
+        "myinvitation": "我的邀请",
+        "haveInvited": "已邀请好友",
+        "validfriends": "有效好友",
+        "invitationfemaletip": "1. 邀请一位女性用户，且该女性用户获得平台认证，可获得 50 Z豆奖励。",
+        "invitationmale": "2. 邀请一位男性用户，且该男性用户购买成为平台的会员，可获得 200 Z豆奖励",
+        "invitationuser": "3. 邀请一位用户，邀请者和好友都能获得 1 天会员资格（仅限男士）",
+        "download": "复制链接，立刻分享",
+        "copyUrl": "点我复制",
+        "shareto": "分享至",
+        "photoalbum": "相册",
+        "agent": "申请代理",
+        "appliy": "申请条件",
+        "missionone": "任务一",
+        "missiontwo": "任务二",
+        "bind": "绑定手机号",
+        "haveBined": "已绑定",
+        "gobind": "去绑定",
+        "contactmethod": "其他联系方式",
+        "concatMethod": "邮箱/QQ/微信",
+        "youname": "怎么称呼您",
+        "applycase": "申请原因",
+        "enterName": "请输入您的姓名",
+        "submitApply": "提交申请",
+        "done": "已完成",
+        "submitSuccess": "提交成功",
+        "approvedTip": "在申请通过后，我们将会以客服形式通知您，请留意消息，谢谢",
+        "hasblacked": "你已被拉黑，无法查看",
+        "file": "的资料",
+        "canView": "你今天还能查看",
+        "lader": "位女士",
+        "sendFail": "发送失败",
+        "becomeGod": "成为女神",
+        "loading": "解锁中",
+        "alsounlock": "同时会解锁",
+        "allprofiles": "的全部资料",
+        "use": "使用",
+        "chancenum": "次机会",
+        "askme": "请通过私聊向我索取",
+        "noOnline": "不在线",
+        "yearOld": "岁",
+        "soshare": "我还很害羞，还未上传照片哦",
+        "basicInfo": "基础资料",
+        "blockhim": "拉黑对方",
+        "blocked": "你已被拉黑",
+        "failclick": "无法收藏",
+        "cancelBlock": "已取消拉黑",
+        "infoErred": "信息错误",
+        "fileDetail": "请先完善资料",
+        "requestErr": "请求错误",
+        "entersocialMedia": "请输入社交账号",
+        "unlockSuccess": "解锁成功",
+        "timetip": "开始时间不能小于现在",
+        "selectCity": "请选择城市",
+        "program": "发布节目",
+        "datatimeTip": "约会时间未选择或日期错误(约会日期不能小于当前日期)",
+        "dateperiod": "请选择约会时间段",
+        "addgodness": "(升级为女神可无限制免费发布)",
+        "ifpay": "是否充值 ",
+        "postadvertisements": "发广告",
+        "uncivilized": "骚扰谩骂/不文明聊天",
+        "fackphoto": "虚假照片",
+        "vulgarity": "色情低俗",
+        "womanLiar": "她是骗子",
+        "manLiar": "他是骗子",
+        "report": "举报",
+        "relation": "此用户未设置关系签名",
+        "unloaction": "此用户未设置地区",
+        "guangzhou": "广州市",
+        "unnamereport": "匿名举报",
+        "questionstip": "问题与反馈，24小时内快速处理，如有不便之处敬请谅解！",
+        "selectReason": "请选择举报原因",
+        "unviewSame": "无法查看同性用户",
+        "unblockMyself": "不能拉黑自己",
+        "bookmarked": "已收藏",
+        "cancelled": "已取消收藏",
+        "haveBlock": "已拉黑",
+        "authenticity": "真人",
+        "infoErr": "信息出错",
+        "failErr": "拉黑失败",
+        "clickUpload": "点击上传",
+        "unempty": "内容或照片不能为空",
+        "ninePic": "最多只能上传9张图片",
+        "mostpfoto": "最多只能上传6张图片",
+        "ifcost": "是否花费",
+        "bean": "豆",
+        "postactive": "发布动态",
+        "posting": "发布中",
+        "unyouchance": "你的免费机会已用完",
+        "goddessTip": "非女神用户每天那可免费发送5条，女神没有限制哦",
+        "success": "发布成功",
+        "VIPfree": "会员免费，非会员需要支付120豆",
+        "unProfile": "没有相关用户",
+        "enter": "输入",
+        "enterInformation": "输入昵称/职业进行搜索",
+        "nearby": "附近",
+        "collect": "收藏",
+        "black": "拉黑",
+        "member": "会员",
+        "addBlock": "已加入黑名单",
+        "myself": "这是您本人",
+        "addLike": "已加入喜欢",
+        "removeLike": "已取消喜欢",
+        "cancelLike": "取消收藏",
+        "manunview": "男士无法查看其他男士资料",
+        "womenunview": "女士无法查看其他女士资料",
+        "firstPage": "首页",
+        "onlineState": "在线优先显示",
+        "cancelState": "取消在线优先",
+        "unknow": "未知",
+        "online": "在线",
+        "today": "今天",
+        "yesterday": "昨天",
+        "lastday": "前天",
+        "threeDay": "3天前",
+        "fourday": "4天前",
+        "fiveday": "5天前",
+        "requestView": "申请查看",
+        "manLow": "他很低调",
+        "womenLow": "她很低调",
+        "paidAlbum": "付费相册",
+        "aproved": "已通过",
+        "new": "新注册",
+        "hidenunphoto": "相册中没有照片的女士已经隐藏",
+        "location": "请开启定位服务，否则择TA无法计算您与其他用户的距离哦",
+        "todaysurplus": "您今天还能查看2位女士",
+        "memberView": "（会员可无限次查看哦）",
+        "unmember": "非会员用户每天只能查看15位女士",
+        "unquota": "今天的查看数已用完",
+        "continueView": "继续查看",
+        "upMember": "升级会员",
+        "close": "关闭",
+        "morefunction": "更多操作",
+        "hideBlock": "拉黑（屏蔽双方）",
+        "unableView": "您将无法再看到对方的动态",
+        "ifSure": "确定吗",
+        "passcertify": "她通过面容识别认证真实性",
+        "goddesscertify": "她已获得女神认证",
+        "postbroadcast": "她正在发起广播哦",
+        "begining": "正在发起广播哦",
+        "joinMan": "他通过系统发放的邀请码加入择Ta",
+        "joinrecommend": "他通过资深用户赠予的邀请码加入择Ta",
+        "profile": "资料",
+        "smallDynamic": "动态",
+        "dynamic": "动态",
+        "manalbum": "他的相册",
+        "sexalbum": "的相册",
+        "womenalbum": "她的相册",
+        "privateChat": "私聊",
+        "socialAccount": "社交账号",
+        "illegalTip": "请勿通过平台进行不法交易，一经核实将作封号处理。",
+        "shesetlimit": "她设置了限制",
+        "hesetlimit": "他设置了限制",
+        "seerequire": "查看资料需要请求",
+        "agree": "同意",
+        "limited": "她设置了限制，查看资料需要请求她的同意",
+        "picbruntTip": "申请查看需要给对方发一张您的照片哦。放心您的照片会在对方查看2秒后焚毁。",
+        "selectPic": "选择照片",
+        "haveSend": "已发送申请",
+        "haveTip": "对方确认后您会收到信息提醒",
+        "application": "已发送申请，对方确认后您会收到信息提醒",
+        "uploadPic": "图片上传中",
+        "albumlocked": "她设置了相册锁",
+        "setlocked": "设置了相册锁",
+        "unlock": "解锁",
+        "albumpic": "相册",
+        "forfree": "会员免费",
+        "albumlockedtip": "解锁她的相册（XXXZ豆），会员免费",
+        "remain": "您今天还有",
+        "remainChance": "次免费的机会",
+        "confirmsure": "是否使用1次机会解锁她的相册(您今天还有x次免费的机会）",
+        "useChance": "您今天的免费查看机会已用完，是否赠送xxxZ豆解锁她的相册",
+        "send": "赠送(XXXZ豆)",
+        "becomeMember": "成为会员，免费解锁相册",
+        "albumClock": "他设置了相册锁",
+        "ifUseChance": "是否使用1次机会解锁",
+        "unlockfree": "免费解锁",
+        "confirmuseChance": "是否使用1次机会解锁他的相册",
+        "unchance": "您的免费机会已用完",
+        "longchangce": "女神认证女士没有限制哦",
+        "femaleChance": "真人认证女士每天5次免费机会解锁相册",
+        "useAlbum": " Z豆解锁用户相册",
+        "womanfree": "认证女士可以免费解锁男士相册",
+        "usezbean": "是否赠送xxxZ豆解锁用户相册？认证女士可以免费解锁男士相册",
+        "freeunlock": "马上认证，免费解锁",
+        "afterBurntpic": "阅后即焚照片",
+        "holdView": "按住屏幕查看",
+        "pichasburnt": "照片已焚毁",
+        "hasburnt": "已焚毁",
+        "memberTime": "会员可延长查看时间达6秒",
+        "authenTime": "认证后可延长查看时间达6秒",
+        "burntpayPic": "阅后即焚的付费照片",
+        "payView": "付费看照片",
+        "menuploadpic": "他还没有上传照片",
+        "womenuploadpic": "她还没有上传照片",
+        "ifUse": "是否使用",
+        "chanceNum": "次机会",
+        "shetogetherChat": "她私聊",
+        "hetogetherChat": "他私聊",
+        "shelockInfo": "同时解锁她的所有资料哦",
+        "helockInfo": "同时解锁他的所有资料哦",
+        "chatChangeTip": "是否使用一次机会与她私聊，同时解锁她的所有资料哦（您今天还有x次免费机会）",
+        "privateChance": "您今天的免费私聊机会已用完",
+        "ifsend": "是否赠送",
+        "together": "与",
+        "screctChact": "私聊",
+        "unchatChance": "您今天的免费私聊机会已用完，是否赠送 100Z豆与她私聊，同时解锁她的所有资料",
+        "sendZbean": "赠送",
+        "useChancetip": "使用1次机会",
+        "hide": "已隐藏",
+        "chatMe": "请私聊我",
+        "contactdetailtip": "她隐藏了社交账号，是否使用一次机会与她私聊了解更多（您今天还有x次免费机会）",
+        "useOneTime": "使用1次机会",
+        "girlaccount": "社交账号",
+        "sendAccount": "发送我的社交账号给她",
+        "insertAccount": "输入您的社交账号",
+        "egAccount": "比如\"微信号abc，\"手机号1389745874“",
+        "sendSuccess": "发送成功",
+        "ifChat": "是否与",
+        "asunlock": "同时解锁",
+        "keyInfo": "的所有资料哦",
+        "ifchatUnlock": "是否与她私聊，同时解锁她的所有资料哦",
+        "unlockTip": "解锁（100Z豆）",
+        "becomeMemberTip": "成为会员，免费解锁",
+        "look": "点击查看",
+        "filled": "已填写",
+        "copy": "复制",
+        "copied": "已复制到粘贴板",
+        "unverified": "您还没进行认证",
+        "beginChat": "认证您的真实性后，才能主动聊天",
+        "applifyTip": "马上认证（10秒完成)",
+        "programTime": "填写的节目时间已经过期",
+        "attestation": "马上认证",
+        "shareText": "不走心，只看脸，有趣的异性在这里等你！- 来择TA，认识我"
+    },
+    "userPrivacy": {
+        "largeTitle": "择TA隐私政策",
+        "privacyTip": "本《隐私政策》（简称“本政策”）仅适用于广州源际科技有限公司（简称“我们”）的择TA App产品或服务，不适用于有单独的隐私权政策且未纳入本政策的第三方产品或服务。您使用我们的产品时，我们将按照本政策收集、存储、使用及对外提供您的个人信息。同时，我们会通过本政策向您说明，我们如何为您提供访问、更新、管理和保护您的个人信息的服务。本政策与您使用我们的产品关系紧密，我们建议您仔细阅读并理解本政策全部内容，我们努力用通俗易懂、简明扼要的文字表达，并对本政策中与您的权益存在重大关系的条款，采用粗体字进行标注以提示您注意。 一旦您开始使用择TA各项产品或服务，即表示您已充分理解并同意本政策。如果您有任何疑问、意见或建议，请通过电子邮箱与我们取得联系：",
+        "privacyIntroduce": [
+            {
+                "privacytitle": "本政策将帮助您了解以下内容：",
+                "privacySecond": "我们深知个人信息对您的重要性，并会尽全力保护您的个人信息安全可靠。我们致力于维持您对我们的信任，恪守以下原则，保护您的个人信息：权责一致原则、目的明确原则、选择同意原则、确保安全原则、主体参与原则、公开透明原则等。同时，我们承诺采取相应的安全保护措施来保护您的个人信息。请在使用我们的产品前，仔细阅读并了解本政策。",
+                "privacyContent": [
+                    {
+                        "text": " 一、我们如何收集和使用个人信息"
+                    },
+                    {
+                        "text": " 二、我们如何使用Cookie和同类技术"
+                    },
+                    {
+                        "text": " 三、我们如何共享、转让、公开披露个人信息"
+                    },
+                    {
+                        "text": " 四、我们如何保护个人信息"
+                    },
+                    {
+                        "text": " 五、您的权利"
+                    },
+                    {
+                        "text": " 六、我们如何处理未成年人的个人信息"
+                    },
+                    {
+                        "text": " 七、我们如何存储个人信息"
+                    },
+                    {
+                        "text": " 八、我们如何更新本政策"
+                    },
+                    {
+                        "text": " 九、其他"
+                    }
+                ]
+            }
+        ],
+        "userPrivacy": [
+            {
+                "firstTitle": "一、我们如何收集和使用个人信息",
+                "content": [
+                    {
+                        "secondTitle": "（一）词语释义  ",
+                        "contentSecond": [
+                            {
+                                "text": "1.择TA App产品或服务是指：我们及关联方通过合法拥有并运营的、标注名称包含“择TA”的客户端应用程序，向您提供的产品与服务，包括但不限于聊天、音视频发布、图文发布及相应浏览、推荐、互动等功能。"
+                            },
+                            {
+                                "text": "2.个人信息是指：以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。本政策个人信息包括姓名、出生日期、身份证件号码、个人生物识别信息、住址、通信通讯联系方式、通信记录和内容、账号密码、财产信息、征信信息、行踪轨迹、住宿信息、健康生理信息、网络身份识别信息、常用设备信息、交易信息、手机号码、微信号、QQ号等。"
+                            },
+                            {
+                                "text": "3.个人敏感信息是指：一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧视性待遇等的个人信息。本政策中的个人敏感信息包括身份证件号码、邮箱地址、各类密码（口令、保护答案、数字证书）、个人生物识别信息、通记记录和内容、个人健康生理信息、个人财产信息、银行账号、征信信息、行踪轨迹、住宿信息、交易信息、14岁周岁以下（含）儿童的个人信息等。"
+                            },
+                            {
+                                "text": "4.身份要素是指：产品用于识别您身份的信息要素，例如：您的登录名、密码、短信校验码、电话号码、手机号码、证件号码及个人生物识别信息（例如：指纹信息、脸部信息）。"
+                            },
+                            {
+                                "text": "5.非个人信息：通过对个人信息的技术处理（包括匿名化、去标识化等），使得处理后的信息无法单独或结合其他信息识别到您的个人身份，且处理后的信息不能被复原，处理后的信息不属于法律意义上您的个人信息。但当个人信息与处理后的信息结合使用期间，这些结合信息将作为您的个人信息按照本政策处理与保护。"
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（二）收集和使用个人信息的目的",
+                        "contentSecond": [
+                            {
+                                "text": "1.我们仅会出于本政策所述的以下目的，收集和使用您的个人信息：",
+                                "classify": [
+                                    {
+                                        "classifyTip": "（1）保障产品服务能够正常运行；"
+                                    },
+                                    {
+                                        "classifyTip": "（2）保障产品服务、用户使用的安全；"
+                                    },
+                                    {
+                                        "classifyTip": "（3）实现个性化产品功能或服务需求；"
+                                    },
+                                    {
+                                        "classifyTip": "（4）向您推荐您可能感兴趣的资讯、活动等；"
+                                    },
+                                    {
+                                        "classifyTip": "（5）评估、改善投放和其他促销及推广活动的效果；"
+                                    },
+                                    {
+                                        "classifyTip": "（6）管理软件，例如，软件认证、软件升级等；"
+                                    },
+                                    {
+                                        "classifyTip": "（7）遵循法律法规及国家标准的规定。"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "2.当我们要将个人信息用于本政策未载明的其它用途时，会事先征求您的同意。当我们要将基于特定目的收集而来的信息用于其他目的时，会事先征求您的同意。"
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（三）我们直接收集和与使用的个人信息",
+                        "contentSecond": [
+                            {
+                                "text": "1.保障产品正常运行",
+                                "classify": [
+                                    {
+                                        "classifyTip": "当您使用我们的产品时，为了保障产品基础功能及服务能过正常运行，您需要同意我们收集您设备的如下信息（即产品正常运行所必须的移动设备信息）：硬件型号、操作系统版本号、国际移动设备识别码（IMEI）、网络设备硬件地址（MAC）、软件版本号、操作日志、网络接入方式、网络接入类型、IP地址等信息。"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "2.注册产品账号",
+                                "classify": [
+                                    {
+                                        "classifyTip": "（1）当您通过移动手机号码注册产品账号时，为完成注册，您需提供完整的、可接收短信或电话的手机号码，我们将通过发送短信验证码或语音验证码的方式确认您的身份是否有效。通过验证且您阅读并同意本政策及用户协议后，将完成账号注册。"
+                                    },
+                                    {
+                                        "classifyTip": "（2）当您通过第三方账号（例如微信、QQ等）登录产品，您需要授权我们获取您登录所使用的第三方账号的公开信息（例如头像、昵称、性别等），并将该账号与您的产品账号进行绑定。如果您不同意授权或拒绝我们获取上述信息，您将无法通过第三方账号登录产品，但不影响您正常使用产品的其他功能。"
+                                    },
+                                    {
+                                        "classifyTip": "（3）完成产品账号注册后，您可以自行决定是否需要完善您的头像、昵称、密码、性别、行业、经常出没的地方、个人简介、个人喜好等账号信息。如果您完善以上额外信息，将有助于我们为您提供更好的服务和体验，但如果您不提供上述信息，将无法为您提供有效的平台服务。"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "3.实现个性化推荐信息功能或服务",
+                                "classify": [
+                                    {
+                                        "classifyTip": "3.1为向您个性化推荐信息，我们会收集并使用下列信息：",
+                                        "littleClassify": [
+                                            {
+                                                "littleDetail": "（1）关注、搜索、浏览偏好（例如：感兴趣的人）等您的操作、使用行为信息；"
+                                            },
+                                            {
+                                                "littleDetail": "（2）反馈、发布、点赞、评论、举报、屏蔽等您主动提供的信息；"
+                                            },
+                                            {
+                                                "littleDetail": "（3）获得您明示同意后的地理位置信息。"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "classifyTip": "3.2我们会将上述信息与来自我们其他服务的信息结合，通过算法做特征与偏好分析，用以向您个性化推荐、展示或推送您可能感兴趣或者更合适您的特定功能或服务：",
+                                        "littleClassify": [
+                                            {
+                                                "littleDetail": "（1）向您展示、推荐或推送与您有更高相关程度的用户；"
+                                            },
+                                            {
+                                                "littleDetail": "（2）推荐相关的城市、地区的交友信息；"
+                                            },
+                                            {
+                                                "littleDetail": "（3）推荐与您相关程度更高的程序化图文内容。"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "classifyTip": "3.3我们收集、使用上述信息时进行了去标识化处理，数据分析仅对应特定的、无法直接关联用户身份的编码，无法与您的真实身份相关联。"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "4.实现音视频及图文发布等功能或服务",
+                                "classify": [
+                                    {
+                                        "classifyTip": "4.1您主动发布音视频（相册）、评论信息、图文等时，我们将收集音视频、图文等相应信息，并展示您的昵称、头像、发布信息内容等。",
+                                        "littleClassify": [
+                                            {
+                                                "littleDetail": "（1）您发布音视频时，我们会请求您授权相机、照片、麦克风等权限。如果您不同意或拒绝授权提供，将无法使用此功能，但不影响您正常使用产品的其他功能。"
+                                            },
+                                            {
+                                                "littleDetail": "（2）您发布音视频、图文等信息并选择显示地理位置、使用“附近”功能时，我们会请求您授权地理定位（属于个人敏感信息）权限，并收集与上述功能相关的定位信息。我们收集定位信息的技术包括IP地址、GPS、WLAN等传感器技术。您如果不同意或拒绝授权提供，将无法使用此功能，但不影响您正常使用产品的其他功能。"
+                                            },
+                                            {
+                                                "littleDetail": "（3）您使用发布广播、个人信息或其他需要进行身份认证的功能或服务时，根据中华人民共和国相关法律法规规定，您需要通过平台真实性认证（包括但不限于视频认证、真实姓名、手机号码、身份证号等个人敏感信息），用于完成实名认证。如果您不提供上述信息或信息不真实，将无法使用此功能，但不影响您正常使用产品的其他功能。"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "5.实现互动交流功能或服务",
+                                "classify": [
+                                    {
+                                        "classifyTip": "（1）您主动关注您感兴趣的用户账号并与其他账号进行交流互动、进行评论或分享内容时，我们会收集您关注的账号，并向您展示您关注账号发布内容。"
+                                    },
+                                    {
+                                        "classifyTip": "（2）您主动点赞、评论或分享您感兴趣的图文广播等信息时，我们会收集您点赞、评论或分享的内容，并向您点赞或评论的用户进行展示或推送通知。"
+                                    },
+                                    {
+                                        "classifyTip": "（3）您主动使用虚拟财产与其他用户交互时，我们将收集您的头像、昵称及打赏的数据，并向其他用户进行展示。"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "6.现搜索服务您使用产品的搜索服务时，我们会收集您的搜索关键字信息、日志记录等。"
+                            },
+                            {
+                                "text": "7.充值、查询虚拟财产您主动进入「钱包」功能时，可查询您的虚拟财产剩余数量，并可通过该页面进行购买充值。我们会收集您的余额信息，并在「Z豆」功能页面显示。"
+                            },
+                            {
+                                "text": "8.保障产品、服务及用户使用安全，帮助我们更好地了解产品的运行情况，以便确保运行、改善优化以及提供产品的安全，我们可能记录网络日志信息，以及使用软件及相关服务的频率、崩溃数据、总体安装、使用情况、性能数据等信息。"
+                            },
+                            {
+                                "text": "9.根据法律法规及监管要求，当您使用产品的兑消等类似功能时，需要您提供有效的支付宝/网关平台真实身份账号、以完成身份基本信息多重交叉验证。如果您不提供前述信息，将无法使用此功能，但不影响您正常使用产品的其他功能。"
+                            },
+                            {
+                                "text": "10.处理用户间投诉、举报等纠纷时，为了客观公正快速处理举报事宜。我们可能会调用相关数据进行佐证。"
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（四）我们从第三方获得的个人信息",
+                        "contentSecond": [
+                            {
+                                "text": "1.其他用户因使用我们的产品而被我们收集的信息，例如其他用户发布的信息中可能含有您的部分个人信息（如：在评论、留言、发布图文、音视频中涉及到与您相关的信息）。"
+                            },
+                            {
+                                "text": "2.在您使用产品提供的身份认证功能时，我们会根据相关法律法规规定和/或该身份认证功能所必需，我们将采用行业内通行的方式及尽最大的商业努力来保护您个人敏感信息的安全。如果您不提供这些信息，您将可能无法获得相关服务，但不影响您正常使用其他功能。"
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（五）收集、使用个人信息目的变更",
+                        "contentSecond": [
+                            {
+                                "text": "我们可能随着业务的发展，会对产品有所调整。当新功能或服务与注册、直播、音视频推荐、广告推送、发布图文、账号推荐、互动交流、搜索、查询、认证、虚拟财产等场景相关时，收集与使用的个人信息属于与原目的具有直接关联。在与原目的无直接关联的场景下，我们收集、使用您的个人信息，会再次征得您的同意。"
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（六）无需征得同意收集和使用的个人信息",
+                        "contentSecond": [
+                            {
+                                "text": "1.根据法律法规及相关国家标准，我们在下列任意一种或多种情形下收集和使用您的个人信息无需征得您的授权同意。",
+                                "classify": [
+                                    {
+                                        "classifyTip": "（1）与国家安全、国防安全直接相关的；"
+                                    },
+                                    {
+                                        "classifyTip": "（2）与公共安全、公共卫生、重大公共利益直接相关的；"
+                                    },
+                                    {
+                                        "classifyTip": "（3）与犯罪侦查、起诉、审判和判决执行等直接相关的；"
+                                    },
+                                    {
+                                        "classifyTip": "（4）出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到您同意的；"
+                                    },
+                                    {
+                                        "classifyTip": "（5）所收集的您的个人信息是您自行向社会公众公开的；"
+                                    },
+                                    {
+                                        "classifyTip": "（6）从合法公开披露的信息中收集的您的个人信息的，如合法的新闻报道、政府信息公开等渠道；"
+                                    },
+                                    {
+                                        "classifyTip": "（7）根据您的要求签订或履行合同所必需的；"
+                                    },
+                                    {
+                                        "classifyTip": "（8）用于维护产品的安全稳定运行所必需的，例如发现、处置产品故障；"
+                                    },
+                                    {
+                                        "classifyTip": "（9）为合法的新闻报道所必需的；"
+                                    },
+                                    {
+                                        "classifyTip": "（10）学术研究机构基于公共利益开展统计或学术研究所必要，且对外提供学术研究或描述的结果时，对结果中所包含的个人信息进行去标识化处理的；"
+                                    },
+                                    {
+                                        "classifyTip": "（11）法律法规规定及相关国家标准的其他情形。"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "firstTitle": "二、我们如何使用Cookie和同类技术",
+                "content": [
+                    {
+                        "contentSecond": [
+                            {
+                                "text": "为使您获得更轻松的访问体验，您使用我们的产品时，我们可能会通过小型数据文件识别您的身份，这么做可帮您省去重复输入注册信息的步骤，或者帮助判断您的账号安全状态。这些数据文件可能是Cookie。Cookie通常包含标识符、站点名称以及一些号码和字符。您可根据自己的偏好管理或删除Cookie。除Cookie外，我们还会在使用网站信标和像素标签等其他同类技术。"
+                            },
+                            {
+                                "text": "我们不会将Cookie和同类技术（例如Beacon、Proxy等）用于本政策所述目的之外的任何用途。您可根据自己的偏好管理或删除Cookie。但请注意，如果停用Cookie，您可能无法享受最佳的服务体验，某些服务也可能无法正常使用。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "firstTitle": "三、我们如何共享、转让、公开披露个人信息",
+                "content": [
+                    {
+                        "secondTitle": "（一）如何共享个人信息",
+                        "contentSecond": [
+                            {
+                                "text": "1. 除在下列情况外，我们不会与任何公司、组织和个人分享您的个人信息：",
+                                "classify": [
+                                    {
+                                        "classifyTip": "(1)在获取明确同意的情况下共享：获得您的明确同意后，我们会与其他方共享您的个人信息。"
+                                    },
+                                    {
+                                        "classifyTip": "(2)我们可能会根据法律法规规定，或按政府主管部门的强制性要求，对外共享您的个人信息。"
+                                    },
+                                    {
+                                        "classifyTip": "(3)与我们的附属公司共享：您的个人信息可能会与我们的附属公司共享。我们只会共享必要的个人信息，且受本政策中所声明目的的约束。附属公司如要改变个人信息的处理目的，将再次征求您的授权同意。"
+                                    },
+                                    {
+                                        "classifyTip": "(4)与授权合作伙伴共享：仅为实现本政策中声明的目的，我们的某些服务将由授权合作伙伴提供。我们可能会与合作伙伴共享您的某些个人信息，以提供更好的客户服务和用户体验。我们仅会出于合法、正当、必要、特定、明确的目的共享您的个人信息，并且只会共享提供服务所必要的个人信息。我们的合作伙伴无权将共享的个人信息用于任何其他用途。我们的授权合作伙伴包括以下类型：供应商、服务提供商和其他合作伙伴。我们将信息发送给在全球范围内与我们联合为您提供服务的供应商、服务提供商和其他合作伙伴，这些联合包括提供技术基础设施服务、分析我们服务的使用方式、衡量广告和服务的有效性、提供客户服务或奖品、营销推广活动、支付便利或进行学术研究和调查，例如您需要使用地理位置功能时，为实现这一功能，我们可能会收集您的位置信息及相关设备信息（例如硬件型号、操作系统版本号、国际移动设备身份识别码（IMEI）、网络设备硬件地址（MAC））经过去标识化后并提供给前述提供商。您可以拒绝提供此类信息，但不影响您使用其他服务。对我们与之共享个人信息的公司、组织和个人，我们会与其约定严格的保密条款，同时，我们会对其数据安全能力与环境进行评估并要求第三方以不低于本政策所要求的保密和安全措施来处理该些信息。要求他们按照我们的说明、本政策以及其他任何相关的保密和安全措施来处理个人信息。如果第三方因业务需要，确需超出前述授权范围使用个人信息的，该第三方将需再次征求您的同意。"
+                                    },
+                                    {
+                                        "classifyTip": "(5)用户主动共享信息。我们产品的多项服务可让您不仅与您的社交网络、也与使用该服务的所有用户公开分享您的相关信息，例如，您在产品中所上传或发布的信息（包括您公开的个人信息、您建立的名单）、您对其他人上传或发布的信息作出的回应，以及包括与这些信息有关的位置数据和日志信息。使用我们服务的其他用户也有可能分享与您有关的信息（包括位置数据和日志信息）。特别是产品的社交媒体服务，是专为使您可以与世界各地的用户共享信息而设计，从而使共享信息可实时、广泛的传递。只要您不删除共享信息，有关信息便一直留存在公众领域；即使您删除共享信息，有关信息仍可能由其他用户或不受我们控制的非关联第三方独立地缓存、复制或储存，或由其他用户或该等第三方在公众领域保存。您在我们的服务中所提供、上传或发布的内容和信息（例如有关您社交活动的照片或信息），可能会泄露您的敏感个人信息。您需要谨慎地考虑，是否使用我们的服务披露您的敏感个人信息。"
+                                    },
+                                    {
+                                        "classifyTip": "(6)因此，请您认真考虑您通过产品的服务上传、发布和交流的信息内容。在一些情况下，您可通过产品某些服务的隐私设定来控制有权浏览您的共享信息的用户范围。如您要求从产品的服务中删除您的个人信息，请通过该等特别服务条款提供的方式操作。"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（二）如何转让个人信息",
+                        "contentSecond": [
+                            {
+                                "text": "1.我们不会将您的个人信息转让给任何公司、组织和个人，但以下情况除外：",
+                                "classify": [
+                                    {
+                                        "classifyTip": "(1)在获取明确同意的情况下转让：获得您的明确同意后，我们会向其他方转让您的个人信息;"
+                                    },
+                                    {
+                                        "classifyTip": "(2)在涉及合并、收购、资产转让或破产清算时，如涉及到个人信息转让，我们会在要求新的持有您个人信息的公司、组织继续受本政策的约束，将按照法律法规及不低于本政策所要求的安全标准继续保护或要求个人信息的继受方继续保护您的个人信息，否则我们将要求该公司、组织重新向您征求授权同意。"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（三）如何披露个人信息",
+                        "contentSecond": [
+                            {
+                                "text": "1.我们仅会在以下情况下，公开披露您的个人信息并会采用符合行业内标准的安全保护措施：",
+                                "classify": [
+                                    {
+                                        "classifyTip": "(1)获得您明确同意后;"
+                                    },
+                                    {
+                                        "classifyTip": "(2)基于法律的披露：在法律、法律程序、诉讼或政府主管部门强制性要求的情况下，我们可能会公开披露您的个人信息。"
+                                    },
+                                    {
+                                        "classifyTip": "(3)对违规账号、欺诈行为进行处罚公告。"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（四）免征得同意共享、转让、公开披露的个人信息",
+                        "contentSecond": [
+                            {
+                                "text": "1.根据法律法规及国家标准，我们在下列情形中，共享、转让、公开披露您的个人信息无需征得您的授权同意：",
+                                "classify": [
+                                    {
+                                        "classifyTip": "（1）与国家安全、国防安全直接相关的；"
+                                    },
+                                    {
+                                        "classifyTip": "（2）与公共安全、公共卫生、重大公共利益直接相关的；"
+                                    },
+                                    {
+                                        "classifyTip": "（3）与犯罪侦查、起诉、审判和判决执行等直接相关的；"
+                                    },
+                                    {
+                                        "classifyTip": "（4）出于维护您或其他个人的生命、财产等重大合法权益但又很难得到您的同意的； "
+                                    },
+                                    {
+                                        "classifyTip": "（5）您自行向社会公众公开的个人信息；"
+                                    },
+                                    {
+                                        "classifyTip": "（6）从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道。"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "firstTitle": "四、我们如何保护个人信息",
+                "content": [
+                    {
+                        "secondTitle": "1.本政策提供的如下个人信息保护措施仅适用于我们的产品。一旦您离开我们的产品，浏览或使用其他网站、服务及内容资源，我们即没有能力及义务保护您在我们的产品之外的软件、网站提交的任何个人信息，无论您登录、浏览或使用上述软件、网站是否基于我们的产品的链接或引导。"
+                    },
+                    {
+                        "secondTitle": "（一）为保障您的信息安全，我们致力于使用各种安全技术及配套的管理体系来尽量降低您的信息被泄露、毁损、误用、非授权访问、非授权披露和更改的风险。我们会采取一切合理可行的措施，保护您的个人信息。例如，",
+                        "contentSecond": [
+                            {
+                                "text": "（1）在您的设备与“产品服务”之间交换数据时受SSL加密保护;"
+                            },
+                            {
+                                "text": "（2）我们会使用加密技术确保数据的保密性;"
+                            },
+                            {
+                                "text": "（3）我们会使用受信赖的保护机制防止数据遭到恶意攻击;"
+                            },
+                            {
+                                "text": "（4）我们会部署访问控制机制，确保只有授权人员才可访问个人信息;"
+                            },
+                            {
+                                "text": "（5）我们会举办安全和隐私保护培训课程，加强员工对于保护个人信息重要性的认识；"
+                            },
+                            {
+                                "text": "（6）我们认为其他的合理可行的保护措施。"
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（二）我们已经通过了国家信息安全等级保护（三级）的测评和备案。"
+                    },
+                    {
+                        "secondTitle": "（三）我们会使用不低于行业同行的加密技术、匿名化处理等合理可行的手段保护您的个人信息，并使用安全保护机制防止您的个人信息遭到恶意攻击。"
+                    },
+                    {
+                        "secondTitle": "（四）我们会采取一切合理可行的措施，确保未收集无关的个人信息。我们只会在达成本政策所述目的所需的期限内保留您的个人信息，除非需要延长保留期或受到法律的允许。我们仅在为提供产品服务之目的所必需的期间内保留您的个人信息，例如，您发布的音视频等信息、评论、点赞等信息，在您未撤回、删除或未注销账号期间，我们会保留相关信息。超出必要期限后，我们将对您的个人信息进行删除或匿名化处理，但法律法规另有规定的除外。"
+                    },
+                    {
+                        "secondTitle": "（五）互联网并非绝对安全的环境，而且即时通讯及与其他用户的交流方式并未加密，我们强烈建议您不要通过此类方式发送个人信息。请使用复杂密码，协助我们保证您的账号安全。请您务必妥善保管好您的产品登录名及其他身份要素。您在使用产品时，我们会通过您的登录名及其他身份要素来识别您的身份。一旦您泄漏了前述信息，您可能会蒙受损失，并可能产生对您不利的法律后果。如您发现产品登录名及/或其他身份要素可能或已经泄露时，请您立即和我们取得联系，以便我们及时采取相应措施以避免或降低相关损失。"
+                    },
+                    {
+                        "secondTitle": "（六）我们将不定期更新并公开安全风险、个人信息安全影响评估等报告的有关内容。"
+                    },
+                    {
+                        "secondTitle": "（七）互联网环境并非百分之百安全，我们将尽力确保或担保您发送给我们的任何信息的安全性。如果我们的物理、技术、或管理防护设施遭到破坏，导致信息被非授权访问、公开披露、篡改、或毁坏，导致您的合法权益受损，我们将承担相应的法律责任。"
+                    },
+                    {
+                        "secondTitle": "（八）在不幸发生个人信息安全事件后，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。我们将及时将事件相关情况以邮件、电话、推送通知等方式告知您，难以逐一告知个人信息主体时，我们会采取合理、有效的方式发布公告。我们还将按照监管部门要求，主动上报个人信息安全事件的处置情况。"
+                    }
+                ]
+            },
+            {
+                "firstTitle": "五、您的权利",
+                "content": [
+                    {
+                        "secondTitle": "1.按照中华人民共和国相关的法律、法规、国家标准，以及行业通行做法，我们保障您对自己的个人信息行使以下权利，您访问、修改和删除个人信息的范围和方式将取决于您使用的具体服务："
+                    },
+                    {
+                        "secondTitle": "（一）访问您的个人信息",
+                        "contentSecond": [
+                            {
+                                "text": "(1)您有权访问您的个人信息，法律法规规定的例外情况除外。如果您想行使数据访问权，可以通过以下方式自行访问："
+                            },
+                            {
+                                "text": "(2)账号信息——如果您希望访问或编辑您的账号中的个人资料信息、更改您的密码、添加安全信息等，您可以通过产品客户端应用程序中点击右下方的「个人中心」，通过点击「编辑个人资料」或「设置」点击执行相应操作。"
+                            },
+                            {
+                                "text": "(3)如果您无法通过上述方式访问上述个人信息，您可以使用发送电子邮件的方式联系我们。我们将在30天内回复您的访问请求。"
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（二）更正您的个人信息。",
+                        "contentSecond": [
+                            {
+                                "text": "一般情况下，您可以直接删除您发布的内容，随时浏览、修改、删除自己提交的信息。但出于安全性和身份识别的考虑，您可能无法自主修改注册时提交的某些初始注册信息（如实名认证后信息）；如您确有必要修改该类信息，您可以使用发送电子邮件或在线客服的方式提出更正申请，我们将尽快审核所涉问题，并由专人验证您的用户身份后及时予以回复。"
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（三）删除您的个人信息",
+                        "contentSecond": [
+                            {
+                                "text": "1.在以下情形中，您可以向我们提出删除个人信息的请求：",
+                                "classify": [
+                                    {
+                                        "classifyTip": "（1）如果我们处理个人信息的行为违反法律法规;"
+                                    },
+                                    {
+                                        "classifyTip": "（2）如果我们收集、使用您的个人信息，却未征得您的同意;"
+                                    },
+                                    {
+                                        "classifyTip": "（3）如果我们处理个人信息的行为违反了与您的约定;"
+                                    },
+                                    {
+                                        "classifyTip": "（4）如果您不再使用我们的产品或服务;"
+                                    },
+                                    {
+                                        "classifyTip": "（5）如果我们不再为您提供产品或服务。"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "2.若我们决定响应您的删除请求，我们还将同时通知从我们获得您的个人信息的实体，要求其及时删除，除非法律法规另有规定，或这些实体获得您的独立授权。"
+                            },
+                            {
+                                "text": "3.当您从我们的服务中删除信息后，我们可能不会立即备份系统中删除相应的信息，但会在备份更新时删除这些信息。"
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（四）管理您的授权范围",
+                        "contentSecond": [
+                            {
+                                "text": "每个业务功能需要一些基本的个人信息才能得以完成。对于额外收集的个人信息的收集和使用，您可以随时给予或收回您的授权同意。"
+                            },
+                            {
+                                "text": "您可以通过以下方式自行操作："
+                            },
+                            {
+                                "text": "您可以通过删除信息、关闭设备功能、在产品客户端应用程序中通过「设置」-「账号与安全、通知提醒、隐私」，改变您在功能和服务中的授权范围。"
+                            },
+                            {
+                                "text": "特定的业务功能和服务将需要您的个人信息才能得以完成，当您撤回同意后，我们无法继续为您提供撤回同意所对应的功能和服务，也不再处理您相应的个人信息。但您撤回同意的决定，不会影响我们此前基于您的同意而开展的个人信息处理。"
+                            },
+                            {
+                                "text": "当您撤回同意后，我们将不再处理相应的个人信息。但您撤回同意的决定，不会影响此前基于您的授权而开展的个人信息处理。"
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（五）注销账号",
+                        "contentSecond": [
+                            {
+                                "text": "您随时可注销此前注册的账号，您可以通过邮件方式向我们申请注销账号。在注销账号前，我们将验证您的个人身份、安全状态、设备信息等。注销账号的行为是不可逆的行为，当注销账号后，我们将删除有关您产品账号的一切信息或对相关信息进行匿名化处理，但法律法规另有规定的除外。"
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（六）我们如何响应您的请求",
+                        "contentSecond": [
+                            {
+                                "text": "为保障安全，您可能需要提供书面请求，或以其他方式证明您的身份。我们可能会先要求您验证自己的身份，然后再处理您的请求。"
+                            },
+                            {
+                                "text": "我们将在三十个工作日内做出答复。对于您合理的请求，我们原则上不收取费用，但对多次重复、超出合理限度的请求，我们将视情收取一定成本费用。对于那些无端重复、需要过多技术手段（例如，需要开发新系统或从根本上改变现行惯例）、给他人合法权益带来风险或者非常不切实际的请求，我们可能会予以拒绝。"
+                            },
+                            {
+                                "text": "在以下情形中，按照法律法规要求，我们将无法响应您的请求：",
+                                "classify": [
+                                    {
+                                        "classifyTip": "（1）国家安全、国防安全直接相关的;"
+                                    },
+                                    {
+                                        "classifyTip": "（2）与公共安全、公共卫生、重大公共利益直接相关的;"
+                                    },
+                                    {
+                                        "classifyTip": "（3）与犯罪侦查、起诉、审判和判决执行等直接相关的;"
+                                    },
+                                    {
+                                        "classifyTip": "（4）有充分证据表明您存在主观恶意或滥用权利的;"
+                                    },
+                                    {
+                                        "classifyTip": "（5）响应您的请求将导致您或其他个人、组织的合法权益受到严重损害的；"
+                                    },
+                                    {
+                                        "classifyTip": "（6）涉及商业秘密的。"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（七）投诉举报",
+                        "contentSecond": [
+                            {
+                                "text": "您可以按照我们公示的制度进行投诉或举报。如果您认为您的个人信息权利可能受到侵害，或者发现侵害个人信息权利的线索，您可以通过如下途径进行举报，我们核查后会在30日内反馈您的投诉与举报：",
+                                "classify": [
+                                    {
+                                        "classifyTip": "（1）在「个人中心」界面，点击联系客服与我们联系；"
+                                    },
+                                    {
+                                        "classifyTip": "（2）通过邮件support@zetarapp.com与我们联系。"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（八）访问隐私政策",
+                        "contentSecond": [
+                            {
+                                "text": "您可以在注册、登录页面，或者登录后点击「用户使用协议」后，查看本政策的全部内容。"
+                            }
+                        ]
+                    },
+                    {
+                        "secondTitle": "（九）停止运营向您告知权利",
+                        "contentSecond": [
+                            {
+                                "text": "如我们停止运营，我们将及时停止收集您个人信息的活动，将停止运营的通知以逐一送达或公告的形式通知您，并对所持有的您的个人信息进行删除或匿名化处理。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "firstTitle": "六、我们如何处理未成年人的个人信息",
+                "content": [
+                    {
+                        "secondTitle": "任何18岁以下的未成年人均不得创建自己的用户账户及/或使用我们的服务。我们只会在法律法规允许、父母或监护人明确同意或者保护未成年人所必要的情况下使用或披露未成年人的个人信息。"
+                    }
+                ]
+            },
+            {
+                "firstTitle": "七、我们如何存储个人信息",
+                "content": [
+                    {
+                        "secondTitle": "我们在中华人民共和国境内收集和产生的个人信息，将存储在中华人民共和国境内。我们不会将上述信息传输至境外，如果部分产品涉及跨境业务，我们需要向境外机构传输境内收集的相关个人信息的，我们将会遵循国家相关规定，征求您的同意，并按照法律法规和相关监管部门的规定执行，并通过签订协议、现场核查等有效措施，要求境外机构为所获得的您的个人信息保密。"
+                    }
+                ]
+            },
+            {
+                "firstTitle": "八、我们如何更新本政策",
+                "content": [
+                    {
+                        "secondTitle": "为了给您提供更好的服务，我们会适时对本政策进行修订，该等修订构成本政策的一部分具有等同于本政策的效力。如该等修订会导致您在本政策项下权利的实质减损，在该种情况下，若您继续使用我们的服务，即表示同意接受经修订的政策约束。"
+                    }
+                ]
+            },
+            {
+                "firstTitle": "其他",
+                "content": [
+                    {
+                        "secondTitle": "（一）本政策中所述的我们的产品有可能会根据您所使用的手机型号、系统版本、软件应用程序版本等因素而有所不同。最终的产品和服务以您所使用的产品为准。"
+                    },
+                    {
+                        "secondTitle": "（二）本政策的版权为我们所有，我们拥有解释和修改的权利。"
+                    }
+                ]
+            }
+        ]
+    },
+    "userStandard": {
+        "largeTitle": "择TA平台使用规范",
+        "standTip": "为了营造健康良好的交友环境，择TA将依据本守则对所有用户的行为进行约束和管理，请严格遵守本使用守则。",
+        "standFobid": "请勿做出以下违规行为：",
+        "standText": "同时，我们也希望平台内的用户们能够配合我们，自发对App内的各方面内容进行监督。如发现平台内有任何违法和不良的信息，欢迎大家举报。",
+        "standEmail": "举报邮箱：support@zetarapp.com",
+        "userStandard": [
+            {
+                "title": "一、违反国家现行法律法规的行为，包括但不限于:",
+                "content": [
+                    {
+                        "text": "1、发布反政治言论、煽动民族仇恨、宣传邪教等内容的行为;"
+                    },
+                    {
+                        "text": "2、发布违禁药品、毒品、买卖枪支等内容的行为;"
+                    },
+                    {
+                        "text": "3、以谋取利益为目的的诈骗行为;"
+                    }
+                ]
+            },
+            {
+                "title": "二、发布色情或色情擦边内容的行为，包括但不限于：",
+                "content": [
+                    {
+                        "text": "1、发布招嫖、提供色情服务内容的行为;"
+                    },
+                    {
+                        "text": "2、发布含色情或色情暗示性的文字、照片（胸/臀/腿的特写）及视频的行为"
+                    }
+                ]
+            },
+            {
+                "title": "三、发布其他不良内容的行为，包括但不限于：",
+                "content": [
+                    {
+                        "text": "1、发布血腥、暴力、恐怖、恶心等易引起他人不适的内容的行为；"
+                    },
+                    {
+                        "text": "2、发布骚扰谩骂、污蔑诽谤、诋毁攻击性质等内容的行为；"
+                    },
+                    {
+                        "text": "3、曝光他人隐私的行为；"
+                    }
+                ]
+            },
+            {
+                "title": "四、发布涉及未成年人的内容，平台禁止未成年人使用；"
+            },
+            {
+                "title": "五、发布广告相关信息的行为；"
+            },
+            {
+                "title": "六、使用/盗取他人的信息的行为，包括但不限于：",
+                "content": [
+                    {
+                        "text": "1、发布他人资料、照片、交友信息等行为；"
+                    },
+                    {
+                        "text": "2、指使他人代替账号认证的行为；"
+                    },
+                    {
+                        "text": "3、截取或拍摄他人阅后即焚的行为；"
+                    }
+                ]
+            },
+            {
+                "title": "七、注册多个平台账号；"
+            },
+            {
+                "title": "八、在个人资料以及广播中公开第三方平台联系方式"
+            },
+            {
+                "title": "九、恶意对平台运营造成影响的行为。",
+                "content": [
+                    {
+                        "text": "以上行为一经发现，择TA将视情节严重情况对违规用户予以警告、限制账号权限、永久封号等处理。"
+                    }
+                ]
+            }
+        ]
+    },
+    "userAgree": {
+        "largeTitle": "择TA用户协议",
+        "agreeTip": "【首部及导言】",
+        "agreeIntroduct": "广州源际科技有限公司（以下简称“源际”）在此特别提醒用户认真阅读、充分理解本《用户协议》（下称《协议》）——用户应认真阅读、充分理解本《协议》中各条款，包括免除或者限制“源际”责任的免责条款及对用户的权利限制条款。请您审慎阅读并选择接受或不接受本《协议》（未成年人应在法定监护人陪同下阅读）。除非您接受本《协议》所有条款，否则您无权注册、登录或使用本协议所涉相关服务。您的注册、登录、使用等行为将视为对本《协议》的接受，并同意接受本《协议》各项条款的约束。",
+        "agreeIntroductSecond": "本《协议》是您（下称“用户”）与“源际”之间关于用户注册、登录、使用“择TA”服务所订立的协议。本《协议》描述“源际”与用户之间关于“择TA”服务相关方面的权利义务。“用户”是指注册、登录、使用、浏览本服务的个人或组织。您对本协议的接受即受全部条款的约束，包括接受“源际”对任一服务条款随时所做的任何修改。本《协议》可由“源际”随时更新，更新后的协议条款一旦公布即代替原来的协议条款，恕不再另行通知，用户可在本APP查阅最新版协议条款。在“源际”修改《协议》条款后，如果用户不接受修改后的条款，请立即停止使用“源际”提供的服务，用户继续使用“源际”提供的服务将被视为已接受了修改后的协议。",
+        "userAgree": [
+            {
+                "title": "一、使用规则",
+                "content": [
+                    {
+                        "text": "1、用户充分了解并同意，仅为用户提供信息分享、传送及获取的平台，用户必须为自己注册帐号下的一切行为负责，包括但不限于您所传送的任何内容以及由此产生的任何结果。"
+                    },
+                    {
+                        "text": "2、用户在服务中或通过服务所传送的任何内容并不反映“源际”的观点或政策，“源际”对此不承担任何责任。"
+                    },
+                    {
+                        "text": "3、用户充分了解并同意，是一个基于用户关系网的社交信息浏览产品，用户须对在上的注册信息的真实性、合法性、有效性承担全部责任，用户不得冒充他人；不得利用他人的名义传播任何信息；不得恶意使用注册帐号导致其他用户误认；否则“源际”有权立即停止提供服务，收回帐号并由用户独自承担由此而产生的一切法律责任。"
+                    },
+                    {
+                        "text": "4、用户须对在上所传送信息的真实性、合法性、无害性、有效性等全权负责，与用户所传播的信息相关的任何法律责任由用户自行承担，与“源际”无关。"
+                    },
+                    {
+                        "text": "5、“源际”保留因业务发展需要，单方面对本服务的全部或部分服务内容在任何时候不经任何通知的情况下变更、暂停、限制、终止或撤销服务的权利，用户需承担此风险。"
+                    },
+                    {
+                        "text": "6、提供的服务中可能包括广告，用户同意在使用过程中显示和第三方供应商、合作伙伴提供的广告。"
+                    },
+                    {
+                        "text": "7、用户不得利用或服务制作、上载、复制、发送如下内容：",
+                        "classify": [
+                            {
+                                "classifyTip": "(1)反对宪法所确定的基本原则的；"
+                            },
+                            {
+                                "classifyTip": "(2)危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；"
+                            },
+                            {
+                                "classifyTip": "(3)损害国家荣誉和利益的；"
+                            },
+                            {
+                                "classifyTip": "(4)煽动民族仇恨、民族歧视，破坏民族团结的；"
+                            },
+                            {
+                                "classifyTip": "(5)破坏国家宗教政策，宣扬邪教和封建迷信的；"
+                            },
+                            {
+                                "classifyTip": "(6)散布谣言，扰乱社会秩序，破坏社会稳定的；"
+                            },
+                            {
+                                "classifyTip": "(7)散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；"
+                            },
+                            {
+                                "classifyTip": "(8)侮辱或者诽谤他人，侵害他人合法权益的；"
+                            },
+                            {
+                                "classifyTip": "(9)含有法律、行政法规禁止的其他内容的信息。"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "8、“源际”可依其合理判断，对违反有关法律法规或本协议约定；或侵犯、妨害、威胁任何人权利或安全的内容，或者假冒他人的行为，“源际”有权依法停止传输任何前述内容，并有权依其自行判断对违反本条款的任何人士采取适当的法律行动，包括但不限于，从服务中删除具有违法性、侵权性、不当性等内容，终止违反者的成员资格，阻止其使用全部或部分服务，并且依据法律法规保存有关信息并向有关部门报告等。"
+                    },
+                    {
+                        "text": "9、用户权利及义务：",
+                        "classify": [
+                            {
+                                "classifyTip": "(1)“源际”帐号的所有权归“源际”所有，用户完成申请注册手续后，获得帐号的使用权，该使用权仅属于初始申请注册人，禁止赠与、借用、租用、转让或售卖。“源际”因经营需要，有权回收用户的帐号,并有权使用用户照片、视频、语音等进行产品宣传活动。"
+                            },
+                            {
+                                "classifyTip": "(2)用户有权更改、删除在“源际”上的个人资料、注册信息及传送内容等，但需注意，删除有关信息的同时也会删除任何您储存在系统中的文字和图片。用户需承担该风险。"
+                            },
+                            {
+                                "classifyTip": "(3)用户有责任妥善保管注册帐号信息及帐号密码的安全，用户需要对注册帐号以及密码下的行为承担法律责任。用户同意在任何情况下不使用其他成员的帐号或密码。在您怀疑他人在使用您的帐号或密码时，您同意立即通知“源际”。"
+                            },
+                            {
+                                "classifyTip": "(4)用户应遵守本协议的各项条款，正确、适当地使用本服务，如因用户违反本协议中的任何条款，“源际”有权依据协议终止对违约用户“源际”帐号提供服务。同时，“源际”保留在任何时候收回“源际”帐号、用户名的权利。"
+                            },
+                            {
+                                "classifyTip": "(5)如果用户有自己的常用英文帐号，那么用户有优先将该英文帐号注册为帐号的权利，但是如果用户在服务上线后一段时间内没有注册帐号，或者用户虽然注册了微信帐号，但是并不是使用该英文帐号作为微信帐号的，视为用户放弃了将该英文帐号注册为微信帐号的权利， “源际”有权将该英文帐号回收并分配给其他用户使用，以免造成资源浪费，由此带来问题均由用户自行承担。"
+                            },
+                            {
+                                "classifyTip": "(6)用户注册帐号后如果长期不登录该帐号，“源际”有权回收该帐号，以免造成资源浪费，由此带来问题均由用户自行承担。"
+                            },
+                            {
+                                "classifyTip": "(7)用户发生纠纷可使用举报功能维护用户平台权益，若收到用户举报反馈，被举报用户有义务主动告知或配合客服人员核实情况，举报内容核实属实，择TA有权对用户警告、限制账号使用功能等方式约束用户违规行为，严重违规者择TA有权直接冻结账号，且账户内余额不返还。如果账号被冻结需申诉，用户可联系官方邮箱（support@zetarapp.com）。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "二、隐私保护",
+                "content": [
+                    {
+                        "text": "用户同意个人隐私信息是指那些能够对用户进行个人辨识或涉及个人通信的信息，包括下列信息：用户真实姓名，手机号码，微信账号，QQ账号，IP地址。而非个人隐私信息是指用户对本服务的操作状态以及使用习惯等一些明确且客观反映在“源际”服务器端的基本记录信息和其他一切个人隐私信息范围外的普通信息；以及用户同意公开的上述隐私信息。"
+                    },
+                    {
+                        "text": "尊重用户个人隐私信息的私有性是“源际”的一贯制度，“源际”将会采取合理的措施保护用户的个人隐私信息，除法律或有法律赋予权限的政府部门要求或用户同意等原因外，“源际”未经用户同意不向除合作单位以外的第三方公开、透露用户个人隐私信息。"
+                    },
+                    {
+                        "text": "但是，用户在注册时选择同意，或用户与“源际”及合作单位之间就用户个人隐私信息公开或使用另有约定的除外，同时用户应自行承担因此可能产生的任何风险，“源际”对此不予负责。同时，为了运营和改善“源际”的技术和服务，“源际”将可能会自行收集使用或向第三方提供用户的非个人隐私信息，这将有助于“源际”向用户提供更好的用户体验和提高“源际”的服务质量。"
+                    },
+                    {
+                        "text": "“源际”收集数据是根据用户与“源际”的互动和用户所做出的选择，包括用户的隐私设置以及用户使用的产品和功能。“源际”收集的数据可能包括SDK/API/JS代码版本、IP地址、平台、时间戳、应用标识符、应用程序版本、应用分发渠道、独立设备标识符、iOS广告标识符（IDFA)、安卓广告主标识符、网卡（MAC）地址、国际移动设备识别码（IMEI）、设备型号、终端制造厂商、终端设备操作系统版本、会话启动/停止时间、语言所在地、时区和网络状态（WiFi等）、硬盘、CPU和电池使用情况等。这将有助于”源际”开展内部数据分析和研究，第三方SDK统计服务，改善“源际”的产品或服务。"
+                    },
+                    {
+                        "text": "为确保用户身份真实性，向用户提供更好的安全保障，用户需提交的身份信息或面部特征等生物识别信息（均属于个人敏感信息）来完成具体产品服务所需或必要的真人认证。上述信息将仅用于核实用户身份的真实性。"
+                    },
+                    {
+                        "text": "用户提供的上述信息，将在用户使用本服务期间持续授权“源际”使用。在用户注销账号时，“源际”将停止使用上述信息。"
+                    },
+                    {
+                        "text": "上述信息将存储于中华人民共和国境内。如需跨境传输，“源际”将会单独征得用户的授权同意。"
+                    },
+                    {
+                        "text": "App用户真实性认证需要用户提供能证实用户身份真实性的部分资料。相关资料只用做平台审核不会披露给任何其他用户或用于商业用途，仅法律或有关部门要求介入除外。"
+                    }
+                ]
+            },
+            {
+                "title": "三、“源际”商标信息",
+                "content": [
+                    {
+                        "text": "“源际”服务中所涉及的logo等图形、文字或其组成，以及其他“源际”标志及产品、服务名称，均为“源际”之商标（以下简称““源际”标识”）。未经“源际”事先书面同意，用户不得将“源际”标识以任何方式展示或使用或作其他处理，也不得向他人表明您有权展示、使用、或其他有权处理“源际”标识的行为。"
+                    }
+                ]
+            },
+            {
+                "title": "四、法律责任及免责",
+                "content": [
+                    {
+                        "text": "1、用户违反本《协议》或相关的服务条款的规定，导致或产生的任何第三方主张的任何索赔、要求或损失，包括合理的律师费，用户同意赔偿“源际”与合作公司、关联公司，并使之免受损害。"
+                    },
+                    {
+                        "text": "2、用户因第三方如电信部门的通讯线路故障、技术问题、网络、电脑故障、系统不稳定性及其他各种不可抗力原因而遭受的一切损失，“源际”及合作单位不承担责任。"
+                    },
+                    {
+                        "text": "3、因技术故障等不可抗事件影响到服务的正常运行的，“源际”及合作单位承诺在第一时间内与相关单位配合，及时处理进行修复，但用户因此而遭受的一切损失，“源际”及合作单位不承担责任。"
+                    },
+                    {
+                        "text": "4、本服务同大多数互联网服务一样，受包括但不限于用户原因、网络服务质量、社会环境等因素的差异影响，可能受到各种安全问题的侵扰，如他人利用用户的资料，造成现实生活中的骚扰；用户下载安装的其它软件或访问的其他网站中含有“特洛伊木马”等病毒，威胁到用户的计算机信息和数据的安全，继而影响本服务的正常使用等等。用户应加强信息安全及使用者资料的保护意识，要注意加强密码保护，以免遭致损失和骚扰。"
+                    },
+                    {
+                        "text": "5、用户须明白，使用本服务因涉及Internet服务，可能会受到各个环节不稳定因素的影响。因此，本服务存在因不可抗力、计算机病毒或黑客攻击、系统不稳定、用户所在位置、用户关机以及其他任何技术、互联网络、通信线路原因等造成的服务中断或不能满足用户要求的风险。用户须承担以上风险，“源际”不作担保。对因此导致用户不能发送和接受阅读信息、或接发错信息，“源际”不承担任何责任。"
+                    },
+                    {
+                        "text": "6、用户须明白，在使用本服务过程中存在有来自任何他人的包括威胁性的、诽谤性的、令人反感的或非法的内容或行为或对他人权利的侵犯（包括知识产权）的匿名或冒名的信息的风险，用户须承担以上风险，“源际”和合作公司对本服务不作任何类型的担保，不论是明确的或隐含的，包括所有有关信息真实性、适商性、适于某一特定用途、所有权和非侵权性的默示担保和条件，对因此导致任何因用户不正当或非法使用服务产生的直接、间接、偶然、特殊及后续的损害，不承担任何责任。"
+                    },
+                    {
+                        "text": "7、“源际”定义的信息内容包括：文字、软件、声音、相片、录像、图表；在广告中全部内容；“源际”为用户提供的商业信息，所有这些内容受版权、商标权、和其它知识产权和所有权法律的保护。所以，用户只能在“源际”和广告商授权下才能使用这些内容，而不能擅自复制、修改、编纂这些内容、或创造与内容有关的衍生产品。"
+                    },
+                    {
+                        "text": "8、在任何情况下，“源际”均不对任何间接性、后果性、惩罚性、偶然性、特殊性或刑罚性的损害，包括因用户使用服务而遭受的利润损失，承担责任（即使已被告知该等损失的可能性亦然）。尽管本协议中可能含有相悖的规定，“源际”对您承担的全部责任，无论因何原因或何种行为方式，始终不超过您在成员期内因使用服务而支付给“源际”的费用(如有)。"
+                    }
+                ]
+            },
+            {
+                "title": "五、会员条款",
+                "content": [
+                    {
+                        "text": "1、择TA会员平等享有会员的权利，同时应遵守“源际”的各项规范、规则，包括但不限于本服务条款和《用户协议》。"
+                    },
+                    {
+                        "text": "2、因违反“源际”《用户协议》而导致会员服务被暂停使用的相关损失，由用户自行承担。"
+                    },
+                    {
+                        "text": "3、会员在会员资格有效期内可以享受择TA会员的各项增值服务。"
+                    },
+                    {
+                        "text": "4、如会员在会员资格有效期内主动终止或取消会员资格，“源际”不负责退还与该会员剩余会员资格有效期对应的服务费用。"
+                    },
+                    {
+                        "text": "5、会员自行承担在择TA中传送、发布信息及使用择TA免费服务或收费服务的法律责任，会员使用择TA服务，包括免费服务与收费服务的行为，均应遵守各项法律法规、规章、规范性文件。"
+                    },
+                    {
+                        "text": "6、会员服务开通之后，不可进行转让或退订。"
+                    },
+                    {
+                        "text": "7、因会员在使用“源际”免费服务或收费服务的过程中，存在违反法律法规的行为，“源际”有权取消该会员的会员资格而无须给予任何补偿，且该会员须自行承担全部责任。"
+                    }
+                ]
+            },
+            {
+                "title": "六、其他条款",
+                "content": [
+                    {
+                        "text": "1、“源际”郑重提醒用户注意本《协议》中免除“源际”责任和加重用户义务的条款，请用户仔细阅读，自主考虑风险。未成年人应在法定监护人的陪同下阅读本《协议》。以上各项条款内容的最终解释权及修改权归“源际”所有。"
+                    },
+                    {
+                        "text": "2、本《协议》所定的任何条款的部分或全部无效者，不影响其它条款的效力。"
+                    },
+                    {
+                        "text": "3、本《协议》的解释、效力及纠纷的解决，适用于中华人民共和国法律。若用户和“源际”之间发生任何纠纷或争议，首先应友好协商解决，协商不成的，用户在此完全同意将纠纷或争议提交“源际”住所地的人民法院管辖。"
+                    },
+                    {
+                        "text": "4、本《协议》的版权由“源际”所有，“源际”保留一切解释和修改权利。"
+                    },
+                    {
+                        "text": "5、《择TA隐私政策》"
+                    }
+                ]
+            }
+        ]
+    },
+    "welcome": {
+        "largeTitle": "欢迎来到 择TA",
+        "wish": "祝愿你在择TA的每一刻都满心欢喜。",
+        "welcomeIntroduct": "Hi，欢迎来到择TA交友,一款为你的吃喝玩乐提供全方位交友的APP。不管你在哪，我们都为你寻找那个对味的TA。",
+        "welcomeSecondTitle": "在结交新朋友前，我们温馨提醒你:",
+        "welcomeSecond": [
+            {
+                "content": "1.请遵守《择TA平台使用规范》，若发布违规内容(如: 色情低俗内容)，择TA有权对账号作出限制权限，甚至冻结账号处理。"
+            },
+            {
+                "content": "2.在使用平台过程中，若遇到问题需要帮助，请关注我们的微信服务号：择TA，提交你的问题；你也可以到个人中心-联系人工客服处理，也欢迎你随时对平台提出宝贵意见。"
+            }
+        ],
+        "welcomeMain": [
+            {
+                "mainTitle": "邀请好友获取奖励",
+                "mainContent": "想要和你的朋友一起玩择TA吗？想要和你的朋友一起讨论择TA内的新鲜事吗？择TA APP设置了丰富的分享好友奖励, 只要你邀请好友成为择TA的用户，你和你的朋友都能获得奖励！",
+                "mainText": [
+                    {
+                        "tip": "邀请奖励规则：",
+                        "classify": [
+                            {
+                                "classfiyText": "1.点击APP内的【邀请好友】，系统会生成专属你的二维码，你可以直接分享到微信，或者保存二维码到相册以分享到其他平台。"
+                            },
+                            {
+                                "classfiyText": "2.通过你的二维码注册的好友，如果是女性朋友，她成功获得平台认证，你就可以获得50个Z豆；如果是男性朋友，他付费成为择TA会员，你就能获得200个Z豆。"
+                            },
+                            {
+                                "classfiyText": "3.你的男性朋友通过你的二维码在择TA成功注册，你和你的朋友都能获得3天会员。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "mainTitle": "选择择TA的原因",
+                "mainContent": "在择TA平台，每天有成千上万的会员加入我们。择TA为你沉淀一段有陪伴、有共鸣的关系，这才是社交真正的样子。",
+                "mainText": [
+                    {
+                        "tip": "【使用场景】",
+                        "classify": [
+                            {
+                                "classfiyText": "1.结识同类好友：填写你的个人标签，让你快速找到与你同类的好友。"
+                            },
+                            {
+                                "classfiyText": "2.畅所欲言：说你想说的话，择TA有懂你和拥有有趣灵魂的人。"
+                            },
+                            {
+                                "classfiyText": "3.真实形象认识彼此：择TA欢迎你上传日常生活的照片，让真实贯彻到底。择TA从简单的功能出发，在满足交友需求的基础下，尊重用户习惯和经验，让用户无需思考，简单学习即可操作。择TA用匠心打造产品，只为用户提供更舒适更流畅的交友平台。"
+                            }
+                        ]
+                    },
+                    {
+                        "tip": "【产品功能】",
+                        "classify": [
+                            {
+                                "classfiyText": "1. 匹配好友工具",
+                                "classifyContent": "想寻找高等教育合作伙伴？想见一下绿眼睛的22岁金发女郎？我们的匹配工具可帮助你找到你想要找的人。"
+                            },
+                            {
+                                "classfiyText": "2. 聊天和邀约功能",
+                                "classifyContent": "在这里你可以与多人同时聊天，我们还提供动态发布和约会邀约，让你认识更多有趣的人。"
+                            },
+                            {
+                                "classfiyText": "3. 近距离找好友",
+                                "classifyContent": "择TA为用户搭建了一个近距离的交友氛围，可以找到附近好友，不用跳脱既有的生活圈，也可以参与附近好友的生活。"
+                            },
+                            {
+                                "classfiyText": "4. 安全的交友机制",
+                                "classifyContent": "择TA的会员需要通过面容识别和人工审核，以防止网络骗局并保护会员免受欺诈者的侵害，你可以更放心与他人建立关系。"
+                            },
+                            {
+                                "classfiyText": "5. 更好的用户体验",
+                                "classifyContent": "择TA有着良好的服务体系。如果你在平台的使用过程中遇到任何问题，随时可以找客服解决。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "zetarAction": {
+        "largeTitle": "净网扫黄 - 择TA在行动",
+        "content": [
+            {
+                "title": "为响应国家扫黄净网的政策和精神，择TA APP积极配合政策打击利用互联网制作传播淫秽色情信息的不良行为，平台内涉嫌色情低俗的内容，择 TA 绝不姑息，只为了给用户提供一个绿色健康的交友环境。希望用户严格遵守平台守则，做一个高素质的人。违规行为一经发现，择TA将视情节严重情况对违规用户予以警告、限制账号权限、永久冻结封停等处理。"
+            },
+            {
+                "title": "同时，我们也希望平台内的用户们能够配合我们，自发对App内的各方面内容进行监督。如发现平台内有任何违法和不良信息，欢迎大家举报。"
+            },
+            {
+                "title": "举报邮箱：support@zetarapp.com"
+            }
+        ]
+    },
+    "serviceAndprivacy": {
+        "inLaw": "",
+        "title": "用户协议及隐私政策",
+        "service": "《择TA用户协议》",
+        "privacy": "《择TA隐私政策》",
+        "contentTop": "为切实保护择TA用户在使用本应用时的用户隐私权及信息安全性，提升您的用户体验，我们根据现行的国家法律，制定了",
+        "contentTouch": "和",
+        "contentMiddle": "请您务必在使用前仔细阅读上述协议内容，我们将严格按照《择TA用户协议》和《择TA隐私政策》中的约定管理、使用您的个人信息，同时采用相应的安全保护措施来保护您的个人信息安全，维护您的隐私权。",
+        "contentBottom": "如您同意上述的协议内容，请点击“同意”并开始使用我们的产品和服务。上述的服务条款一旦发生变动，我司将及时在重要页面提示修改内容并邀请您确认，未得到您的确认前，我们将不会继续为您提供服务。"
+    },
+    "rejectTip": {
+        "contentMain": "如有疑问可联系客服邮箱：support@zetarapp.com"
+    },
+    "feedbackReward": {
+        "salmReward": "反馈有奖",
+        "sectionTopFirst": "【择TA】app自上线以来，得到了不少用户的好评与分享！因为有你们的分享，【择TA】团队备受鼓舞！【择TA】作为一款用户至上的社交产品，时刻将你放在心中。为了给你提供更好服务及产品体验，不断得到你的信任与分享，决定送你一份“吐槽福利”！",
+        "sectionTopSecond": "何为“吐槽福利”？就是你在【择TA】使用过程中遇到的问题及建议反馈到我们的在线客服小姐姐，平台将赠送你20豆/次的福利。你反馈的问题及建议越多，得到的福利越大，【择TA】将更懂你！",
+        "sectionMiddleFirst": "全平台用户",
+        "sectionMiddleSecond": "你在使用过程中，遇到任何问题，可直接点击：「我的-需要帮助-联系客服」将你的问题及建议直接反馈给在线客服。反馈受理时间：工作日9:00-19:30；其它时间可通过邮件形式发送至：support@zetarapp.com；客服小姐姐在线等你哦!",
+        "sectionMiddleThird": "为感谢你提出的问题及建议，收到反馈后，客服小姐姐将进行受理，受理成功后，平台将赠送你20豆/次的福利。提的建议越多福利越大。如果这个建议得到平台的一致认同，还可以获得更高的福利。",
+        "sectionBottom": "每次反馈，必有回响！让我们共同努力，将【择TA】打造成更好的社交平台。"
+    }
+}
