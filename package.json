@@ -14,7 +14,7 @@
     "babel-preset-env": "^1.2.1",
     "babel-register": "^6.26.0",
     "baidu-aip-sdk": "^2.3.1",
-    "bl": "^2.0.1",
+    "bl": "^2.2.1",
     "cross-env": "^5.2.0",
     "env": "0.0.2",
     "eslint": "^3.12.0",
